@@ -1,0 +1,5361 @@
+reading input from file
+sum 1 = 491
+sum 2 = 495
+increase found!
+sum 1 = 495
+sum 2 = 506
+increase found!
+sum 1 = 506
+sum 2 = 526
+increase found!
+sum 1 = 526
+sum 2 = 542
+increase found!
+sum 1 = 542
+sum 2 = 558
+increase found!
+sum 1 = 558
+sum 2 = 578
+increase found!
+sum 1 = 578
+sum 2 = 600
+increase found!
+sum 1 = 600
+sum 2 = 607
+increase found!
+sum 1 = 607
+sum 2 = 598
+sum 1 = 598
+sum 2 = 591
+sum 1 = 591
+sum 2 = 606
+increase found!
+sum 1 = 606
+sum 2 = 626
+increase found!
+sum 1 = 626
+sum 2 = 646
+increase found!
+sum 1 = 646
+sum 2 = 651
+increase found!
+sum 1 = 651
+sum 2 = 654
+increase found!
+sum 1 = 654
+sum 2 = 650
+sum 1 = 650
+sum 2 = 651
+increase found!
+sum 1 = 651
+sum 2 = 653
+increase found!
+sum 1 = 653
+sum 2 = 662
+increase found!
+sum 1 = 662
+sum 2 = 670
+increase found!
+sum 1 = 670
+sum 2 = 680
+increase found!
+sum 1 = 680
+sum 2 = 679
+sum 1 = 679
+sum 2 = 663
+sum 1 = 663
+sum 2 = 662
+sum 1 = 662
+sum 2 = 673
+increase found!
+sum 1 = 673
+sum 2 = 703
+increase found!
+sum 1 = 703
+sum 2 = 716
+increase found!
+sum 1 = 716
+sum 2 = 740
+increase found!
+sum 1 = 740
+sum 2 = 771
+increase found!
+sum 1 = 771
+sum 2 = 802
+increase found!
+sum 1 = 802
+sum 2 = 819
+increase found!
+sum 1 = 819
+sum 2 = 826
+increase found!
+sum 1 = 826
+sum 2 = 839
+increase found!
+sum 1 = 839
+sum 2 = 854
+increase found!
+sum 1 = 854
+sum 2 = 862
+increase found!
+sum 1 = 862
+sum 2 = 861
+sum 1 = 861
+sum 2 = 861
+sum 1 = 861
+sum 2 = 863
+increase found!
+sum 1 = 863
+sum 2 = 868
+increase found!
+sum 1 = 868
+sum 2 = 872
+increase found!
+sum 1 = 872
+sum 2 = 877
+increase found!
+sum 1 = 877
+sum 2 = 878
+increase found!
+sum 1 = 878
+sum 2 = 882
+increase found!
+sum 1 = 882
+sum 2 = 895
+increase found!
+sum 1 = 895
+sum 2 = 917
+increase found!
+sum 1 = 917
+sum 2 = 947
+increase found!
+sum 1 = 947
+sum 2 = 972
+increase found!
+sum 1 = 972
+sum 2 = 995
+increase found!
+sum 1 = 995
+sum 2 = 1016
+increase found!
+sum 1 = 1016
+sum 2 = 1014
+sum 1 = 1014
+sum 2 = 1010
+sum 1 = 1010
+sum 2 = 1009
+sum 1 = 1009
+sum 2 = 1023
+increase found!
+sum 1 = 1023
+sum 2 = 1047
+increase found!
+sum 1 = 1047
+sum 2 = 1063
+increase found!
+sum 1 = 1063
+sum 2 = 1084
+increase found!
+sum 1 = 1084
+sum 2 = 1093
+increase found!
+sum 1 = 1093
+sum 2 = 1059
+sum 1 = 1059
+sum 2 = 1017
+sum 1 = 1017
+sum 2 = 1001
+sum 1 = 1001
+sum 2 = 1035
+increase found!
+sum 1 = 1035
+sum 2 = 1048
+increase found!
+sum 1 = 1048
+sum 2 = 1044
+sum 1 = 1044
+sum 2 = 1030
+sum 1 = 1030
+sum 2 = 1019
+sum 1 = 1019
+sum 2 = 1002
+sum 1 = 1002
+sum 2 = 984
+sum 1 = 984
+sum 2 = 988
+increase found!
+sum 1 = 988
+sum 2 = 992
+increase found!
+sum 1 = 992
+sum 2 = 1027
+increase found!
+sum 1 = 1027
+sum 2 = 1061
+increase found!
+sum 1 = 1061
+sum 2 = 1104
+increase found!
+sum 1 = 1104
+sum 2 = 1116
+increase found!
+sum 1 = 1116
+sum 2 = 1122
+increase found!
+sum 1 = 1122
+sum 2 = 1089
+sum 1 = 1089
+sum 2 = 1077
+sum 1 = 1077
+sum 2 = 1068
+sum 1 = 1068
+sum 2 = 1087
+increase found!
+sum 1 = 1087
+sum 2 = 1099
+increase found!
+sum 1 = 1099
+sum 2 = 1115
+increase found!
+sum 1 = 1115
+sum 2 = 1132
+increase found!
+sum 1 = 1132
+sum 2 = 1129
+sum 1 = 1129
+sum 2 = 1129
+sum 1 = 1129
+sum 2 = 1127
+sum 1 = 1127
+sum 2 = 1122
+sum 1 = 1122
+sum 2 = 1117
+sum 1 = 1117
+sum 2 = 1114
+sum 1 = 1114
+sum 2 = 1120
+increase found!
+sum 1 = 1120
+sum 2 = 1126
+increase found!
+sum 1 = 1126
+sum 2 = 1136
+increase found!
+sum 1 = 1136
+sum 2 = 1162
+increase found!
+sum 1 = 1162
+sum 2 = 1157
+sum 1 = 1157
+sum 2 = 1147
+sum 1 = 1147
+sum 2 = 1109
+sum 1 = 1109
+sum 2 = 1109
+sum 1 = 1109
+sum 2 = 1098
+sum 1 = 1098
+sum 2 = 1112
+increase found!
+sum 1 = 1112
+sum 2 = 1082
+sum 1 = 1082
+sum 2 = 1059
+sum 1 = 1059
+sum 2 = 1024
+sum 1 = 1024
+sum 2 = 1026
+increase found!
+sum 1 = 1026
+sum 2 = 1031
+increase found!
+sum 1 = 1031
+sum 2 = 1040
+increase found!
+sum 1 = 1040
+sum 2 = 1048
+increase found!
+sum 1 = 1048
+sum 2 = 1056
+increase found!
+sum 1 = 1056
+sum 2 = 1059
+increase found!
+sum 1 = 1059
+sum 2 = 1037
+sum 1 = 1037
+sum 2 = 1016
+sum 1 = 1016
+sum 2 = 986
+sum 1 = 986
+sum 2 = 982
+sum 1 = 982
+sum 2 = 985
+increase found!
+sum 1 = 985
+sum 2 = 988
+increase found!
+sum 1 = 988
+sum 2 = 986
+sum 1 = 986
+sum 2 = 967
+sum 1 = 967
+sum 2 = 964
+sum 1 = 964
+sum 2 = 948
+sum 1 = 948
+sum 2 = 943
+sum 1 = 943
+sum 2 = 921
+sum 1 = 921
+sum 2 = 927
+increase found!
+sum 1 = 927
+sum 2 = 944
+increase found!
+sum 1 = 944
+sum 2 = 982
+increase found!
+sum 1 = 982
+sum 2 = 1009
+increase found!
+sum 1 = 1009
+sum 2 = 1019
+increase found!
+sum 1 = 1019
+sum 2 = 1015
+sum 1 = 1015
+sum 2 = 1011
+sum 1 = 1011
+sum 2 = 1008
+sum 1 = 1008
+sum 2 = 995
+sum 1 = 995
+sum 2 = 985
+sum 1 = 985
+sum 2 = 971
+sum 1 = 971
+sum 2 = 970
+sum 1 = 970
+sum 2 = 945
+sum 1 = 945
+sum 2 = 939
+sum 1 = 939
+sum 2 = 906
+sum 1 = 906
+sum 2 = 892
+sum 1 = 892
+sum 2 = 864
+sum 1 = 864
+sum 2 = 875
+increase found!
+sum 1 = 875
+sum 2 = 881
+increase found!
+sum 1 = 881
+sum 2 = 892
+increase found!
+sum 1 = 892
+sum 2 = 889
+sum 1 = 889
+sum 2 = 883
+sum 1 = 883
+sum 2 = 874
+sum 1 = 874
+sum 2 = 867
+sum 1 = 867
+sum 2 = 867
+sum 1 = 867
+sum 2 = 865
+sum 1 = 865
+sum 2 = 858
+sum 1 = 858
+sum 2 = 862
+increase found!
+sum 1 = 862
+sum 2 = 881
+increase found!
+sum 1 = 881
+sum 2 = 902
+increase found!
+sum 1 = 902
+sum 2 = 916
+increase found!
+sum 1 = 916
+sum 2 = 936
+increase found!
+sum 1 = 936
+sum 2 = 968
+increase found!
+sum 1 = 968
+sum 2 = 999
+increase found!
+sum 1 = 999
+sum 2 = 1013
+increase found!
+sum 1 = 1013
+sum 2 = 1020
+increase found!
+sum 1 = 1020
+sum 2 = 1035
+increase found!
+sum 1 = 1035
+sum 2 = 1069
+increase found!
+sum 1 = 1069
+sum 2 = 1099
+increase found!
+sum 1 = 1099
+sum 2 = 1124
+increase found!
+sum 1 = 1124
+sum 2 = 1107
+sum 1 = 1107
+sum 2 = 1086
+sum 1 = 1086
+sum 2 = 1066
+sum 1 = 1066
+sum 2 = 1069
+increase found!
+sum 1 = 1069
+sum 2 = 1090
+increase found!
+sum 1 = 1090
+sum 2 = 1108
+increase found!
+sum 1 = 1108
+sum 2 = 1125
+increase found!
+sum 1 = 1125
+sum 2 = 1132
+increase found!
+sum 1 = 1132
+sum 2 = 1141
+increase found!
+sum 1 = 1141
+sum 2 = 1171
+increase found!
+sum 1 = 1171
+sum 2 = 1200
+increase found!
+sum 1 = 1200
+sum 2 = 1218
+increase found!
+sum 1 = 1218
+sum 2 = 1216
+sum 1 = 1216
+sum 2 = 1210
+sum 1 = 1210
+sum 2 = 1234
+increase found!
+sum 1 = 1234
+sum 2 = 1258
+increase found!
+sum 1 = 1258
+sum 2 = 1283
+increase found!
+sum 1 = 1283
+sum 2 = 1288
+increase found!
+sum 1 = 1288
+sum 2 = 1258
+sum 1 = 1258
+sum 2 = 1223
+sum 1 = 1223
+sum 2 = 1191
+sum 1 = 1191
+sum 2 = 1193
+increase found!
+sum 1 = 1193
+sum 2 = 1218
+increase found!
+sum 1 = 1218
+sum 2 = 1239
+increase found!
+sum 1 = 1239
+sum 2 = 1259
+increase found!
+sum 1 = 1259
+sum 2 = 1281
+increase found!
+sum 1 = 1281
+sum 2 = 1307
+increase found!
+sum 1 = 1307
+sum 2 = 1333
+increase found!
+sum 1 = 1333
+sum 2 = 1343
+increase found!
+sum 1 = 1343
+sum 2 = 1345
+increase found!
+sum 1 = 1345
+sum 2 = 1361
+increase found!
+sum 1 = 1361
+sum 2 = 1367
+increase found!
+sum 1 = 1367
+sum 2 = 1377
+increase found!
+sum 1 = 1377
+sum 2 = 1335
+sum 1 = 1335
+sum 2 = 1288
+sum 1 = 1288
+sum 2 = 1237
+sum 1 = 1237
+sum 2 = 1210
+sum 1 = 1210
+sum 2 = 1215
+increase found!
+sum 1 = 1215
+sum 2 = 1220
+increase found!
+sum 1 = 1220
+sum 2 = 1243
+increase found!
+sum 1 = 1243
+sum 2 = 1247
+increase found!
+sum 1 = 1247
+sum 2 = 1248
+increase found!
+sum 1 = 1248
+sum 2 = 1245
+sum 1 = 1245
+sum 2 = 1244
+sum 1 = 1244
+sum 2 = 1249
+increase found!
+sum 1 = 1249
+sum 2 = 1262
+increase found!
+sum 1 = 1262
+sum 2 = 1271
+increase found!
+sum 1 = 1271
+sum 2 = 1278
+increase found!
+sum 1 = 1278
+sum 2 = 1277
+sum 1 = 1277
+sum 2 = 1275
+sum 1 = 1275
+sum 2 = 1281
+increase found!
+sum 1 = 1281
+sum 2 = 1305
+increase found!
+sum 1 = 1305
+sum 2 = 1329
+increase found!
+sum 1 = 1329
+sum 2 = 1368
+increase found!
+sum 1 = 1368
+sum 2 = 1402
+increase found!
+sum 1 = 1402
+sum 2 = 1443
+increase found!
+sum 1 = 1443
+sum 2 = 1439
+sum 1 = 1439
+sum 2 = 1432
+sum 1 = 1432
+sum 2 = 1422
+sum 1 = 1422
+sum 2 = 1444
+increase found!
+sum 1 = 1444
+sum 2 = 1456
+increase found!
+sum 1 = 1456
+sum 2 = 1471
+increase found!
+sum 1 = 1471
+sum 2 = 1484
+increase found!
+sum 1 = 1484
+sum 2 = 1497
+increase found!
+sum 1 = 1497
+sum 2 = 1508
+increase found!
+sum 1 = 1508
+sum 2 = 1516
+increase found!
+sum 1 = 1516
+sum 2 = 1528
+increase found!
+sum 1 = 1528
+sum 2 = 1539
+increase found!
+sum 1 = 1539
+sum 2 = 1552
+increase found!
+sum 1 = 1552
+sum 2 = 1571
+increase found!
+sum 1 = 1571
+sum 2 = 1592
+increase found!
+sum 1 = 1592
+sum 2 = 1606
+increase found!
+sum 1 = 1606
+sum 2 = 1619
+increase found!
+sum 1 = 1619
+sum 2 = 1631
+increase found!
+sum 1 = 1631
+sum 2 = 1634
+increase found!
+sum 1 = 1634
+sum 2 = 1610
+sum 1 = 1610
+sum 2 = 1584
+sum 1 = 1584
+sum 2 = 1582
+sum 1 = 1582
+sum 2 = 1596
+increase found!
+sum 1 = 1596
+sum 2 = 1628
+increase found!
+sum 1 = 1628
+sum 2 = 1647
+increase found!
+sum 1 = 1647
+sum 2 = 1665
+increase found!
+sum 1 = 1665
+sum 2 = 1651
+sum 1 = 1651
+sum 2 = 1650
+sum 1 = 1650
+sum 2 = 1653
+increase found!
+sum 1 = 1653
+sum 2 = 1670
+increase found!
+sum 1 = 1670
+sum 2 = 1688
+increase found!
+sum 1 = 1688
+sum 2 = 1705
+increase found!
+sum 1 = 1705
+sum 2 = 1718
+increase found!
+sum 1 = 1718
+sum 2 = 1717
+sum 1 = 1717
+sum 2 = 1716
+sum 1 = 1716
+sum 2 = 1726
+increase found!
+sum 1 = 1726
+sum 2 = 1734
+increase found!
+sum 1 = 1734
+sum 2 = 1733
+sum 1 = 1733
+sum 2 = 1738
+increase found!
+sum 1 = 1738
+sum 2 = 1737
+sum 1 = 1737
+sum 2 = 1746
+increase found!
+sum 1 = 1746
+sum 2 = 1749
+increase found!
+sum 1 = 1749
+sum 2 = 1767
+increase found!
+sum 1 = 1767
+sum 2 = 1779
+increase found!
+sum 1 = 1779
+sum 2 = 1788
+increase found!
+sum 1 = 1788
+sum 2 = 1790
+increase found!
+sum 1 = 1790
+sum 2 = 1797
+increase found!
+sum 1 = 1797
+sum 2 = 1813
+increase found!
+sum 1 = 1813
+sum 2 = 1836
+increase found!
+sum 1 = 1836
+sum 2 = 1859
+increase found!
+sum 1 = 1859
+sum 2 = 1891
+increase found!
+sum 1 = 1891
+sum 2 = 1911
+increase found!
+sum 1 = 1911
+sum 2 = 1940
+increase found!
+sum 1 = 1940
+sum 2 = 1947
+increase found!
+sum 1 = 1947
+sum 2 = 1960
+increase found!
+sum 1 = 1960
+sum 2 = 1965
+increase found!
+sum 1 = 1965
+sum 2 = 1975
+increase found!
+sum 1 = 1975
+sum 2 = 1985
+increase found!
+sum 1 = 1985
+sum 2 = 1995
+increase found!
+sum 1 = 1995
+sum 2 = 2001
+increase found!
+sum 1 = 2001
+sum 2 = 1991
+sum 1 = 1991
+sum 2 = 1966
+sum 1 = 1966
+sum 2 = 1940
+sum 1 = 1940
+sum 2 = 1930
+sum 1 = 1930
+sum 2 = 1948
+increase found!
+sum 1 = 1948
+sum 2 = 1966
+increase found!
+sum 1 = 1966
+sum 2 = 1979
+increase found!
+sum 1 = 1979
+sum 2 = 1975
+sum 1 = 1975
+sum 2 = 1975
+sum 1 = 1975
+sum 2 = 1990
+increase found!
+sum 1 = 1990
+sum 2 = 2006
+increase found!
+sum 1 = 2006
+sum 2 = 2018
+increase found!
+sum 1 = 2018
+sum 2 = 2025
+increase found!
+sum 1 = 2025
+sum 2 = 2043
+increase found!
+sum 1 = 2043
+sum 2 = 2061
+increase found!
+sum 1 = 2061
+sum 2 = 2080
+increase found!
+sum 1 = 2080
+sum 2 = 2088
+increase found!
+sum 1 = 2088
+sum 2 = 2099
+increase found!
+sum 1 = 2099
+sum 2 = 2116
+increase found!
+sum 1 = 2116
+sum 2 = 2175
+increase found!
+sum 1 = 2175
+sum 2 = 2231
+increase found!
+sum 1 = 2231
+sum 2 = 2274
+increase found!
+sum 1 = 2274
+sum 2 = 2295
+increase found!
+sum 1 = 2295
+sum 2 = 2329
+increase found!
+sum 1 = 2329
+sum 2 = 2359
+increase found!
+sum 1 = 2359
+sum 2 = 2371
+increase found!
+sum 1 = 2371
+sum 2 = 2370
+sum 1 = 2370
+sum 2 = 2378
+increase found!
+sum 1 = 2378
+sum 2 = 2394
+increase found!
+sum 1 = 2394
+sum 2 = 2412
+increase found!
+sum 1 = 2412
+sum 2 = 2416
+increase found!
+sum 1 = 2416
+sum 2 = 2410
+sum 1 = 2410
+sum 2 = 2403
+sum 1 = 2403
+sum 2 = 2407
+increase found!
+sum 1 = 2407
+sum 2 = 2421
+increase found!
+sum 1 = 2421
+sum 2 = 2430
+increase found!
+sum 1 = 2430
+sum 2 = 2461
+increase found!
+sum 1 = 2461
+sum 2 = 2474
+increase found!
+sum 1 = 2474
+sum 2 = 2499
+increase found!
+sum 1 = 2499
+sum 2 = 2511
+increase found!
+sum 1 = 2511
+sum 2 = 2539
+increase found!
+sum 1 = 2539
+sum 2 = 2559
+increase found!
+sum 1 = 2559
+sum 2 = 2568
+increase found!
+sum 1 = 2568
+sum 2 = 2572
+increase found!
+sum 1 = 2572
+sum 2 = 2571
+sum 1 = 2571
+sum 2 = 2572
+increase found!
+sum 1 = 2572
+sum 2 = 2577
+increase found!
+sum 1 = 2577
+sum 2 = 2588
+increase found!
+sum 1 = 2588
+sum 2 = 2605
+increase found!
+sum 1 = 2605
+sum 2 = 2618
+increase found!
+sum 1 = 2618
+sum 2 = 2617
+sum 1 = 2617
+sum 2 = 2613
+sum 1 = 2613
+sum 2 = 2615
+increase found!
+sum 1 = 2615
+sum 2 = 2612
+sum 1 = 2612
+sum 2 = 2610
+sum 1 = 2610
+sum 2 = 2603
+sum 1 = 2603
+sum 2 = 2620
+increase found!
+sum 1 = 2620
+sum 2 = 2632
+increase found!
+sum 1 = 2632
+sum 2 = 2643
+increase found!
+sum 1 = 2643
+sum 2 = 2636
+sum 1 = 2636
+sum 2 = 2616
+sum 1 = 2616
+sum 2 = 2602
+sum 1 = 2602
+sum 2 = 2597
+sum 1 = 2597
+sum 2 = 2607
+increase found!
+sum 1 = 2607
+sum 2 = 2626
+increase found!
+sum 1 = 2626
+sum 2 = 2648
+increase found!
+sum 1 = 2648
+sum 2 = 2670
+increase found!
+sum 1 = 2670
+sum 2 = 2676
+increase found!
+sum 1 = 2676
+sum 2 = 2684
+increase found!
+sum 1 = 2684
+sum 2 = 2676
+sum 1 = 2676
+sum 2 = 2673
+sum 1 = 2673
+sum 2 = 2666
+sum 1 = 2666
+sum 2 = 2691
+increase found!
+sum 1 = 2691
+sum 2 = 2707
+increase found!
+sum 1 = 2707
+sum 2 = 2726
+increase found!
+sum 1 = 2726
+sum 2 = 2731
+increase found!
+sum 1 = 2731
+sum 2 = 2764
+increase found!
+sum 1 = 2764
+sum 2 = 2796
+increase found!
+sum 1 = 2796
+sum 2 = 2825
+increase found!
+sum 1 = 2825
+sum 2 = 2832
+increase found!
+sum 1 = 2832
+sum 2 = 2829
+sum 1 = 2829
+sum 2 = 2820
+sum 1 = 2820
+sum 2 = 2800
+sum 1 = 2800
+sum 2 = 2784
+sum 1 = 2784
+sum 2 = 2781
+sum 1 = 2781
+sum 2 = 2787
+increase found!
+sum 1 = 2787
+sum 2 = 2760
+sum 1 = 2760
+sum 2 = 2724
+sum 1 = 2724
+sum 2 = 2688
+sum 1 = 2688
+sum 2 = 2715
+increase found!
+sum 1 = 2715
+sum 2 = 2750
+increase found!
+sum 1 = 2750
+sum 2 = 2780
+increase found!
+sum 1 = 2780
+sum 2 = 2794
+increase found!
+sum 1 = 2794
+sum 2 = 2801
+increase found!
+sum 1 = 2801
+sum 2 = 2836
+increase found!
+sum 1 = 2836
+sum 2 = 2872
+increase found!
+sum 1 = 2872
+sum 2 = 2907
+increase found!
+sum 1 = 2907
+sum 2 = 2955
+increase found!
+sum 1 = 2955
+sum 2 = 2986
+increase found!
+sum 1 = 2986
+sum 2 = 3017
+increase found!
+sum 1 = 3017
+sum 2 = 3010
+sum 1 = 3010
+sum 2 = 3011
+increase found!
+sum 1 = 3011
+sum 2 = 3014
+increase found!
+sum 1 = 3014
+sum 2 = 3011
+sum 1 = 3011
+sum 2 = 3022
+increase found!
+sum 1 = 3022
+sum 2 = 3032
+increase found!
+sum 1 = 3032
+sum 2 = 3038
+increase found!
+sum 1 = 3038
+sum 2 = 3031
+sum 1 = 3031
+sum 2 = 3035
+increase found!
+sum 1 = 3035
+sum 2 = 3048
+increase found!
+sum 1 = 3048
+sum 2 = 3058
+increase found!
+sum 1 = 3058
+sum 2 = 3040
+sum 1 = 3040
+sum 2 = 3031
+sum 1 = 3031
+sum 2 = 3024
+sum 1 = 3024
+sum 2 = 3037
+increase found!
+sum 1 = 3037
+sum 2 = 3044
+increase found!
+sum 1 = 3044
+sum 2 = 3058
+increase found!
+sum 1 = 3058
+sum 2 = 3050
+sum 1 = 3050
+sum 2 = 3034
+sum 1 = 3034
+sum 2 = 3016
+sum 1 = 3016
+sum 2 = 3023
+increase found!
+sum 1 = 3023
+sum 2 = 3023
+sum 1 = 3023
+sum 2 = 3020
+sum 1 = 3020
+sum 2 = 3015
+sum 1 = 3015
+sum 2 = 3007
+sum 1 = 3007
+sum 2 = 2997
+sum 1 = 2997
+sum 2 = 2979
+sum 1 = 2979
+sum 2 = 2980
+increase found!
+sum 1 = 2980
+sum 2 = 2983
+increase found!
+sum 1 = 2983
+sum 2 = 2981
+sum 1 = 2981
+sum 2 = 2978
+sum 1 = 2978
+sum 2 = 2999
+increase found!
+sum 1 = 2999
+sum 2 = 3042
+increase found!
+sum 1 = 3042
+sum 2 = 3098
+increase found!
+sum 1 = 3098
+sum 2 = 3118
+increase found!
+sum 1 = 3118
+sum 2 = 3122
+increase found!
+sum 1 = 3122
+sum 2 = 3118
+sum 1 = 3118
+sum 2 = 3127
+increase found!
+sum 1 = 3127
+sum 2 = 3146
+increase found!
+sum 1 = 3146
+sum 2 = 3145
+sum 1 = 3145
+sum 2 = 3146
+increase found!
+sum 1 = 3146
+sum 2 = 3149
+increase found!
+sum 1 = 3149
+sum 2 = 3170
+increase found!
+sum 1 = 3170
+sum 2 = 3167
+sum 1 = 3167
+sum 2 = 3161
+sum 1 = 3161
+sum 2 = 3149
+sum 1 = 3149
+sum 2 = 3175
+increase found!
+sum 1 = 3175
+sum 2 = 3182
+increase found!
+sum 1 = 3182
+sum 2 = 3200
+increase found!
+sum 1 = 3200
+sum 2 = 3203
+increase found!
+sum 1 = 3203
+sum 2 = 3219
+increase found!
+sum 1 = 3219
+sum 2 = 3232
+increase found!
+sum 1 = 3232
+sum 2 = 3243
+increase found!
+sum 1 = 3243
+sum 2 = 3248
+increase found!
+sum 1 = 3248
+sum 2 = 3250
+increase found!
+sum 1 = 3250
+sum 2 = 3254
+increase found!
+sum 1 = 3254
+sum 2 = 3264
+increase found!
+sum 1 = 3264
+sum 2 = 3259
+sum 1 = 3259
+sum 2 = 3271
+increase found!
+sum 1 = 3271
+sum 2 = 3280
+increase found!
+sum 1 = 3280
+sum 2 = 3310
+increase found!
+sum 1 = 3310
+sum 2 = 3317
+increase found!
+sum 1 = 3317
+sum 2 = 3326
+increase found!
+sum 1 = 3326
+sum 2 = 3317
+sum 1 = 3317
+sum 2 = 3307
+sum 1 = 3307
+sum 2 = 3298
+sum 1 = 3298
+sum 2 = 3296
+sum 1 = 3296
+sum 2 = 3297
+increase found!
+sum 1 = 3297
+sum 2 = 3292
+sum 1 = 3292
+sum 2 = 3291
+sum 1 = 3291
+sum 2 = 3311
+increase found!
+sum 1 = 3311
+sum 2 = 3331
+increase found!
+sum 1 = 3331
+sum 2 = 3350
+increase found!
+sum 1 = 3350
+sum 2 = 3348
+sum 1 = 3348
+sum 2 = 3354
+increase found!
+sum 1 = 3354
+sum 2 = 3364
+increase found!
+sum 1 = 3364
+sum 2 = 3414
+increase found!
+sum 1 = 3414
+sum 2 = 3461
+increase found!
+sum 1 = 3461
+sum 2 = 3513
+increase found!
+sum 1 = 3513
+sum 2 = 3526
+increase found!
+sum 1 = 3526
+sum 2 = 3527
+increase found!
+sum 1 = 3527
+sum 2 = 3519
+sum 1 = 3519
+sum 2 = 3507
+sum 1 = 3507
+sum 2 = 3507
+sum 1 = 3507
+sum 2 = 3513
+increase found!
+sum 1 = 3513
+sum 2 = 3523
+increase found!
+sum 1 = 3523
+sum 2 = 3521
+sum 1 = 3521
+sum 2 = 3514
+sum 1 = 3514
+sum 2 = 3499
+sum 1 = 3499
+sum 2 = 3516
+increase found!
+sum 1 = 3516
+sum 2 = 3521
+increase found!
+sum 1 = 3521
+sum 2 = 3533
+increase found!
+sum 1 = 3533
+sum 2 = 3551
+increase found!
+sum 1 = 3551
+sum 2 = 3583
+increase found!
+sum 1 = 3583
+sum 2 = 3620
+increase found!
+sum 1 = 3620
+sum 2 = 3631
+increase found!
+sum 1 = 3631
+sum 2 = 3647
+increase found!
+sum 1 = 3647
+sum 2 = 3668
+increase found!
+sum 1 = 3668
+sum 2 = 3689
+increase found!
+sum 1 = 3689
+sum 2 = 3683
+sum 1 = 3683
+sum 2 = 3668
+sum 1 = 3668
+sum 2 = 3653
+sum 1 = 3653
+sum 2 = 3660
+increase found!
+sum 1 = 3660
+sum 2 = 3664
+increase found!
+sum 1 = 3664
+sum 2 = 3650
+sum 1 = 3650
+sum 2 = 3635
+sum 1 = 3635
+sum 2 = 3619
+sum 1 = 3619
+sum 2 = 3621
+increase found!
+sum 1 = 3621
+sum 2 = 3621
+sum 1 = 3621
+sum 2 = 3624
+increase found!
+sum 1 = 3624
+sum 2 = 3639
+increase found!
+sum 1 = 3639
+sum 2 = 3654
+increase found!
+sum 1 = 3654
+sum 2 = 3664
+increase found!
+sum 1 = 3664
+sum 2 = 3662
+sum 1 = 3662
+sum 2 = 3662
+sum 1 = 3662
+sum 2 = 3671
+increase found!
+sum 1 = 3671
+sum 2 = 3711
+increase found!
+sum 1 = 3711
+sum 2 = 3763
+increase found!
+sum 1 = 3763
+sum 2 = 3813
+increase found!
+sum 1 = 3813
+sum 2 = 3816
+increase found!
+sum 1 = 3816
+sum 2 = 3822
+increase found!
+sum 1 = 3822
+sum 2 = 3837
+increase found!
+sum 1 = 3837
+sum 2 = 3866
+increase found!
+sum 1 = 3866
+sum 2 = 3892
+increase found!
+sum 1 = 3892
+sum 2 = 3898
+increase found!
+sum 1 = 3898
+sum 2 = 3903
+increase found!
+sum 1 = 3903
+sum 2 = 3894
+sum 1 = 3894
+sum 2 = 3890
+sum 1 = 3890
+sum 2 = 3890
+sum 1 = 3890
+sum 2 = 3891
+increase found!
+sum 1 = 3891
+sum 2 = 3896
+increase found!
+sum 1 = 3896
+sum 2 = 3900
+increase found!
+sum 1 = 3900
+sum 2 = 3900
+sum 1 = 3900
+sum 2 = 3913
+increase found!
+sum 1 = 3913
+sum 2 = 3926
+increase found!
+sum 1 = 3926
+sum 2 = 3946
+increase found!
+sum 1 = 3946
+sum 2 = 3949
+increase found!
+sum 1 = 3949
+sum 2 = 3929
+sum 1 = 3929
+sum 2 = 3909
+sum 1 = 3909
+sum 2 = 3908
+sum 1 = 3908
+sum 2 = 3930
+increase found!
+sum 1 = 3930
+sum 2 = 3958
+increase found!
+sum 1 = 3958
+sum 2 = 3974
+increase found!
+sum 1 = 3974
+sum 2 = 3990
+increase found!
+sum 1 = 3990
+sum 2 = 3996
+increase found!
+sum 1 = 3996
+sum 2 = 4007
+increase found!
+sum 1 = 4007
+sum 2 = 4015
+increase found!
+sum 1 = 4015
+sum 2 = 4009
+sum 1 = 4009
+sum 2 = 3999
+sum 1 = 3999
+sum 2 = 3994
+sum 1 = 3994
+sum 2 = 4000
+increase found!
+sum 1 = 4000
+sum 2 = 4021
+increase found!
+sum 1 = 4021
+sum 2 = 4043
+increase found!
+sum 1 = 4043
+sum 2 = 4057
+increase found!
+sum 1 = 4057
+sum 2 = 4054
+sum 1 = 4054
+sum 2 = 4048
+sum 1 = 4048
+sum 2 = 4053
+increase found!
+sum 1 = 4053
+sum 2 = 4056
+increase found!
+sum 1 = 4056
+sum 2 = 4065
+increase found!
+sum 1 = 4065
+sum 2 = 4074
+increase found!
+sum 1 = 4074
+sum 2 = 4093
+increase found!
+sum 1 = 4093
+sum 2 = 4106
+increase found!
+sum 1 = 4106
+sum 2 = 4134
+increase found!
+sum 1 = 4134
+sum 2 = 4166
+increase found!
+sum 1 = 4166
+sum 2 = 4202
+increase found!
+sum 1 = 4202
+sum 2 = 4216
+increase found!
+sum 1 = 4216
+sum 2 = 4219
+increase found!
+sum 1 = 4219
+sum 2 = 4222
+increase found!
+sum 1 = 4222
+sum 2 = 4228
+increase found!
+sum 1 = 4228
+sum 2 = 4234
+increase found!
+sum 1 = 4234
+sum 2 = 4236
+increase found!
+sum 1 = 4236
+sum 2 = 4243
+increase found!
+sum 1 = 4243
+sum 2 = 4252
+increase found!
+sum 1 = 4252
+sum 2 = 4264
+increase found!
+sum 1 = 4264
+sum 2 = 4266
+increase found!
+sum 1 = 4266
+sum 2 = 4280
+increase found!
+sum 1 = 4280
+sum 2 = 4295
+increase found!
+sum 1 = 4295
+sum 2 = 4314
+increase found!
+sum 1 = 4314
+sum 2 = 4309
+sum 1 = 4309
+sum 2 = 4275
+sum 1 = 4275
+sum 2 = 4275
+sum 1 = 4275
+sum 2 = 4274
+sum 1 = 4274
+sum 2 = 4314
+increase found!
+sum 1 = 4314
+sum 2 = 4330
+increase found!
+sum 1 = 4330
+sum 2 = 4356
+increase found!
+sum 1 = 4356
+sum 2 = 4384
+increase found!
+sum 1 = 4384
+sum 2 = 4415
+increase found!
+sum 1 = 4415
+sum 2 = 4445
+increase found!
+sum 1 = 4445
+sum 2 = 4477
+increase found!
+sum 1 = 4477
+sum 2 = 4491
+increase found!
+sum 1 = 4491
+sum 2 = 4505
+increase found!
+sum 1 = 4505
+sum 2 = 4494
+sum 1 = 4494
+sum 2 = 4509
+increase found!
+sum 1 = 4509
+sum 2 = 4508
+sum 1 = 4508
+sum 2 = 4517
+increase found!
+sum 1 = 4517
+sum 2 = 4510
+sum 1 = 4510
+sum 2 = 4511
+increase found!
+sum 1 = 4511
+sum 2 = 4508
+sum 1 = 4508
+sum 2 = 4506
+sum 1 = 4506
+sum 2 = 4512
+increase found!
+sum 1 = 4512
+sum 2 = 4523
+increase found!
+sum 1 = 4523
+sum 2 = 4533
+increase found!
+sum 1 = 4533
+sum 2 = 4543
+increase found!
+sum 1 = 4543
+sum 2 = 4538
+sum 1 = 4538
+sum 2 = 4538
+sum 1 = 4538
+sum 2 = 4540
+increase found!
+sum 1 = 4540
+sum 2 = 4546
+increase found!
+sum 1 = 4546
+sum 2 = 4542
+sum 1 = 4542
+sum 2 = 4525
+sum 1 = 4525
+sum 2 = 4506
+sum 1 = 4506
+sum 2 = 4508
+increase found!
+sum 1 = 4508
+sum 2 = 4520
+increase found!
+sum 1 = 4520
+sum 2 = 4535
+increase found!
+sum 1 = 4535
+sum 2 = 4536
+increase found!
+sum 1 = 4536
+sum 2 = 4544
+increase found!
+sum 1 = 4544
+sum 2 = 4554
+increase found!
+sum 1 = 4554
+sum 2 = 4568
+increase found!
+sum 1 = 4568
+sum 2 = 4583
+increase found!
+sum 1 = 4583
+sum 2 = 4588
+increase found!
+sum 1 = 4588
+sum 2 = 4595
+increase found!
+sum 1 = 4595
+sum 2 = 4594
+sum 1 = 4594
+sum 2 = 4581
+sum 1 = 4581
+sum 2 = 4561
+sum 1 = 4561
+sum 2 = 4546
+sum 1 = 4546
+sum 2 = 4555
+increase found!
+sum 1 = 4555
+sum 2 = 4566
+increase found!
+sum 1 = 4566
+sum 2 = 4572
+increase found!
+sum 1 = 4572
+sum 2 = 4578
+increase found!
+sum 1 = 4578
+sum 2 = 4599
+increase found!
+sum 1 = 4599
+sum 2 = 4623
+increase found!
+sum 1 = 4623
+sum 2 = 4656
+increase found!
+sum 1 = 4656
+sum 2 = 4674
+increase found!
+sum 1 = 4674
+sum 2 = 4696
+increase found!
+sum 1 = 4696
+sum 2 = 4706
+increase found!
+sum 1 = 4706
+sum 2 = 4718
+increase found!
+sum 1 = 4718
+sum 2 = 4730
+increase found!
+sum 1 = 4730
+sum 2 = 4746
+increase found!
+sum 1 = 4746
+sum 2 = 4758
+increase found!
+sum 1 = 4758
+sum 2 = 4766
+increase found!
+sum 1 = 4766
+sum 2 = 4768
+increase found!
+sum 1 = 4768
+sum 2 = 4782
+increase found!
+sum 1 = 4782
+sum 2 = 4782
+sum 1 = 4782
+sum 2 = 4809
+increase found!
+sum 1 = 4809
+sum 2 = 4796
+sum 1 = 4796
+sum 2 = 4796
+sum 1 = 4796
+sum 2 = 4775
+sum 1 = 4775
+sum 2 = 4777
+increase found!
+sum 1 = 4777
+sum 2 = 4780
+increase found!
+sum 1 = 4780
+sum 2 = 4787
+increase found!
+sum 1 = 4787
+sum 2 = 4809
+increase found!
+sum 1 = 4809
+sum 2 = 4832
+increase found!
+sum 1 = 4832
+sum 2 = 4854
+increase found!
+sum 1 = 4854
+sum 2 = 4871
+increase found!
+sum 1 = 4871
+sum 2 = 4884
+increase found!
+sum 1 = 4884
+sum 2 = 4906
+increase found!
+sum 1 = 4906
+sum 2 = 4878
+sum 1 = 4878
+sum 2 = 4853
+sum 1 = 4853
+sum 2 = 4816
+sum 1 = 4816
+sum 2 = 4823
+increase found!
+sum 1 = 4823
+sum 2 = 4827
+increase found!
+sum 1 = 4827
+sum 2 = 4823
+sum 1 = 4823
+sum 2 = 4820
+sum 1 = 4820
+sum 2 = 4815
+sum 1 = 4815
+sum 2 = 4832
+increase found!
+sum 1 = 4832
+sum 2 = 4856
+increase found!
+sum 1 = 4856
+sum 2 = 4886
+increase found!
+sum 1 = 4886
+sum 2 = 4911
+increase found!
+sum 1 = 4911
+sum 2 = 4929
+increase found!
+sum 1 = 4929
+sum 2 = 4940
+increase found!
+sum 1 = 4940
+sum 2 = 4942
+increase found!
+sum 1 = 4942
+sum 2 = 4951
+increase found!
+sum 1 = 4951
+sum 2 = 4992
+increase found!
+sum 1 = 4992
+sum 2 = 5020
+increase found!
+sum 1 = 5020
+sum 2 = 5042
+increase found!
+sum 1 = 5042
+sum 2 = 5035
+sum 1 = 5035
+sum 2 = 5042
+increase found!
+sum 1 = 5042
+sum 2 = 5044
+increase found!
+sum 1 = 5044
+sum 2 = 5046
+increase found!
+sum 1 = 5046
+sum 2 = 5044
+sum 1 = 5044
+sum 2 = 5045
+increase found!
+sum 1 = 5045
+sum 2 = 5043
+sum 1 = 5043
+sum 2 = 5041
+sum 1 = 5041
+sum 2 = 5039
+sum 1 = 5039
+sum 2 = 5041
+increase found!
+sum 1 = 5041
+sum 2 = 5057
+increase found!
+sum 1 = 5057
+sum 2 = 5081
+increase found!
+sum 1 = 5081
+sum 2 = 5110
+increase found!
+sum 1 = 5110
+sum 2 = 5129
+increase found!
+sum 1 = 5129
+sum 2 = 5145
+increase found!
+sum 1 = 5145
+sum 2 = 5180
+increase found!
+sum 1 = 5180
+sum 2 = 5216
+increase found!
+sum 1 = 5216
+sum 2 = 5244
+increase found!
+sum 1 = 5244
+sum 2 = 5251
+increase found!
+sum 1 = 5251
+sum 2 = 5255
+increase found!
+sum 1 = 5255
+sum 2 = 5270
+increase found!
+sum 1 = 5270
+sum 2 = 5282
+increase found!
+sum 1 = 5282
+sum 2 = 5311
+increase found!
+sum 1 = 5311
+sum 2 = 5340
+increase found!
+sum 1 = 5340
+sum 2 = 5368
+increase found!
+sum 1 = 5368
+sum 2 = 5383
+increase found!
+sum 1 = 5383
+sum 2 = 5392
+increase found!
+sum 1 = 5392
+sum 2 = 5399
+increase found!
+sum 1 = 5399
+sum 2 = 5404
+increase found!
+sum 1 = 5404
+sum 2 = 5387
+sum 1 = 5387
+sum 2 = 5372
+sum 1 = 5372
+sum 2 = 5353
+sum 1 = 5353
+sum 2 = 5356
+increase found!
+sum 1 = 5356
+sum 2 = 5361
+increase found!
+sum 1 = 5361
+sum 2 = 5361
+sum 1 = 5361
+sum 2 = 5362
+increase found!
+sum 1 = 5362
+sum 2 = 5355
+sum 1 = 5355
+sum 2 = 5356
+increase found!
+sum 1 = 5356
+sum 2 = 5355
+sum 1 = 5355
+sum 2 = 5366
+increase found!
+sum 1 = 5366
+sum 2 = 5376
+increase found!
+sum 1 = 5376
+sum 2 = 5387
+increase found!
+sum 1 = 5387
+sum 2 = 5392
+increase found!
+sum 1 = 5392
+sum 2 = 5400
+increase found!
+sum 1 = 5400
+sum 2 = 5407
+increase found!
+sum 1 = 5407
+sum 2 = 5414
+increase found!
+sum 1 = 5414
+sum 2 = 5397
+sum 1 = 5397
+sum 2 = 5379
+sum 1 = 5379
+sum 2 = 5389
+increase found!
+sum 1 = 5389
+sum 2 = 5415
+increase found!
+sum 1 = 5415
+sum 2 = 5441
+increase found!
+sum 1 = 5441
+sum 2 = 5441
+sum 1 = 5441
+sum 2 = 5447
+increase found!
+sum 1 = 5447
+sum 2 = 5446
+sum 1 = 5446
+sum 2 = 5468
+increase found!
+sum 1 = 5468
+sum 2 = 5487
+increase found!
+sum 1 = 5487
+sum 2 = 5514
+increase found!
+sum 1 = 5514
+sum 2 = 5508
+sum 1 = 5508
+sum 2 = 5505
+sum 1 = 5505
+sum 2 = 5504
+sum 1 = 5504
+sum 2 = 5512
+increase found!
+sum 1 = 5512
+sum 2 = 5533
+increase found!
+sum 1 = 5533
+sum 2 = 5551
+increase found!
+sum 1 = 5551
+sum 2 = 5553
+increase found!
+sum 1 = 5553
+sum 2 = 5539
+sum 1 = 5539
+sum 2 = 5533
+sum 1 = 5533
+sum 2 = 5543
+increase found!
+sum 1 = 5543
+sum 2 = 5553
+increase found!
+sum 1 = 5553
+sum 2 = 5556
+increase found!
+sum 1 = 5556
+sum 2 = 5563
+increase found!
+sum 1 = 5563
+sum 2 = 5565
+increase found!
+sum 1 = 5565
+sum 2 = 5593
+increase found!
+sum 1 = 5593
+sum 2 = 5616
+increase found!
+sum 1 = 5616
+sum 2 = 5649
+increase found!
+sum 1 = 5649
+sum 2 = 5667
+increase found!
+sum 1 = 5667
+sum 2 = 5682
+increase found!
+sum 1 = 5682
+sum 2 = 5706
+increase found!
+sum 1 = 5706
+sum 2 = 5713
+increase found!
+sum 1 = 5713
+sum 2 = 5723
+increase found!
+sum 1 = 5723
+sum 2 = 5719
+sum 1 = 5719
+sum 2 = 5714
+sum 1 = 5714
+sum 2 = 5703
+sum 1 = 5703
+sum 2 = 5694
+sum 1 = 5694
+sum 2 = 5676
+sum 1 = 5676
+sum 2 = 5669
+sum 1 = 5669
+sum 2 = 5662
+sum 1 = 5662
+sum 2 = 5675
+increase found!
+sum 1 = 5675
+sum 2 = 5663
+sum 1 = 5663
+sum 2 = 5661
+sum 1 = 5661
+sum 2 = 5654
+sum 1 = 5654
+sum 2 = 5672
+increase found!
+sum 1 = 5672
+sum 2 = 5680
+increase found!
+sum 1 = 5680
+sum 2 = 5684
+increase found!
+sum 1 = 5684
+sum 2 = 5647
+sum 1 = 5647
+sum 2 = 5606
+sum 1 = 5606
+sum 2 = 5576
+sum 1 = 5576
+sum 2 = 5589
+increase found!
+sum 1 = 5589
+sum 2 = 5612
+increase found!
+sum 1 = 5612
+sum 2 = 5628
+increase found!
+sum 1 = 5628
+sum 2 = 5634
+increase found!
+sum 1 = 5634
+sum 2 = 5634
+sum 1 = 5634
+sum 2 = 5629
+sum 1 = 5629
+sum 2 = 5658
+increase found!
+sum 1 = 5658
+sum 2 = 5701
+increase found!
+sum 1 = 5701
+sum 2 = 5754
+increase found!
+sum 1 = 5754
+sum 2 = 5772
+increase found!
+sum 1 = 5772
+sum 2 = 5776
+increase found!
+sum 1 = 5776
+sum 2 = 5778
+increase found!
+sum 1 = 5778
+sum 2 = 5782
+increase found!
+sum 1 = 5782
+sum 2 = 5790
+increase found!
+sum 1 = 5790
+sum 2 = 5784
+sum 1 = 5784
+sum 2 = 5782
+sum 1 = 5782
+sum 2 = 5753
+sum 1 = 5753
+sum 2 = 5722
+sum 1 = 5722
+sum 2 = 5685
+sum 1 = 5685
+sum 2 = 5687
+increase found!
+sum 1 = 5687
+sum 2 = 5703
+increase found!
+sum 1 = 5703
+sum 2 = 5723
+increase found!
+sum 1 = 5723
+sum 2 = 5741
+increase found!
+sum 1 = 5741
+sum 2 = 5759
+increase found!
+sum 1 = 5759
+sum 2 = 5798
+increase found!
+sum 1 = 5798
+sum 2 = 5823
+increase found!
+sum 1 = 5823
+sum 2 = 5848
+increase found!
+sum 1 = 5848
+sum 2 = 5891
+increase found!
+sum 1 = 5891
+sum 2 = 5932
+increase found!
+sum 1 = 5932
+sum 2 = 5977
+increase found!
+sum 1 = 5977
+sum 2 = 5983
+increase found!
+sum 1 = 5983
+sum 2 = 6002
+increase found!
+sum 1 = 6002
+sum 2 = 6013
+increase found!
+sum 1 = 6013
+sum 2 = 6022
+increase found!
+sum 1 = 6022
+sum 2 = 6025
+increase found!
+sum 1 = 6025
+sum 2 = 6047
+increase found!
+sum 1 = 6047
+sum 2 = 6077
+increase found!
+sum 1 = 6077
+sum 2 = 6104
+increase found!
+sum 1 = 6104
+sum 2 = 6115
+increase found!
+sum 1 = 6115
+sum 2 = 6128
+increase found!
+sum 1 = 6128
+sum 2 = 6140
+increase found!
+sum 1 = 6140
+sum 2 = 6152
+increase found!
+sum 1 = 6152
+sum 2 = 6168
+increase found!
+sum 1 = 6168
+sum 2 = 6180
+increase found!
+sum 1 = 6180
+sum 2 = 6193
+increase found!
+sum 1 = 6193
+sum 2 = 6192
+sum 1 = 6192
+sum 2 = 6194
+increase found!
+sum 1 = 6194
+sum 2 = 6196
+increase found!
+sum 1 = 6196
+sum 2 = 6204
+increase found!
+sum 1 = 6204
+sum 2 = 6208
+increase found!
+sum 1 = 6208
+sum 2 = 6192
+sum 1 = 6192
+sum 2 = 6169
+sum 1 = 6169
+sum 2 = 6146
+sum 1 = 6146
+sum 2 = 6140
+sum 1 = 6140
+sum 2 = 6138
+sum 1 = 6138
+sum 2 = 6131
+sum 1 = 6131
+sum 2 = 6123
+sum 1 = 6123
+sum 2 = 6117
+sum 1 = 6117
+sum 2 = 6122
+increase found!
+sum 1 = 6122
+sum 2 = 6128
+increase found!
+sum 1 = 6128
+sum 2 = 6120
+sum 1 = 6120
+sum 2 = 6110
+sum 1 = 6110
+sum 2 = 6091
+sum 1 = 6091
+sum 2 = 6084
+sum 1 = 6084
+sum 2 = 6073
+sum 1 = 6073
+sum 2 = 6062
+sum 1 = 6062
+sum 2 = 6050
+sum 1 = 6050
+sum 2 = 6042
+sum 1 = 6042
+sum 2 = 6046
+increase found!
+sum 1 = 6046
+sum 2 = 6051
+increase found!
+sum 1 = 6051
+sum 2 = 6054
+increase found!
+sum 1 = 6054
+sum 2 = 6056
+increase found!
+sum 1 = 6056
+sum 2 = 6055
+sum 1 = 6055
+sum 2 = 6057
+increase found!
+sum 1 = 6057
+sum 2 = 6059
+increase found!
+sum 1 = 6059
+sum 2 = 6065
+increase found!
+sum 1 = 6065
+sum 2 = 6074
+increase found!
+sum 1 = 6074
+sum 2 = 6070
+sum 1 = 6070
+sum 2 = 6094
+increase found!
+sum 1 = 6094
+sum 2 = 6114
+increase found!
+sum 1 = 6114
+sum 2 = 6124
+increase found!
+sum 1 = 6124
+sum 2 = 6104
+sum 1 = 6104
+sum 2 = 6078
+sum 1 = 6078
+sum 2 = 6091
+increase found!
+sum 1 = 6091
+sum 2 = 6096
+increase found!
+sum 1 = 6096
+sum 2 = 6110
+increase found!
+sum 1 = 6110
+sum 2 = 6126
+increase found!
+sum 1 = 6126
+sum 2 = 6189
+increase found!
+sum 1 = 6189
+sum 2 = 6249
+increase found!
+sum 1 = 6249
+sum 2 = 6286
+increase found!
+sum 1 = 6286
+sum 2 = 6300
+increase found!
+sum 1 = 6300
+sum 2 = 6314
+increase found!
+sum 1 = 6314
+sum 2 = 6331
+increase found!
+sum 1 = 6331
+sum 2 = 6341
+increase found!
+sum 1 = 6341
+sum 2 = 6352
+increase found!
+sum 1 = 6352
+sum 2 = 6348
+sum 1 = 6348
+sum 2 = 6350
+increase found!
+sum 1 = 6350
+sum 2 = 6352
+increase found!
+sum 1 = 6352
+sum 2 = 6364
+increase found!
+sum 1 = 6364
+sum 2 = 6362
+sum 1 = 6362
+sum 2 = 6366
+increase found!
+sum 1 = 6366
+sum 2 = 6375
+increase found!
+sum 1 = 6375
+sum 2 = 6389
+increase found!
+sum 1 = 6389
+sum 2 = 6396
+increase found!
+sum 1 = 6396
+sum 2 = 6418
+increase found!
+sum 1 = 6418
+sum 2 = 6435
+increase found!
+sum 1 = 6435
+sum 2 = 6478
+increase found!
+sum 1 = 6478
+sum 2 = 6508
+increase found!
+sum 1 = 6508
+sum 2 = 6537
+increase found!
+sum 1 = 6537
+sum 2 = 6538
+increase found!
+sum 1 = 6538
+sum 2 = 6547
+increase found!
+sum 1 = 6547
+sum 2 = 6565
+increase found!
+sum 1 = 6565
+sum 2 = 6582
+increase found!
+sum 1 = 6582
+sum 2 = 6598
+increase found!
+sum 1 = 6598
+sum 2 = 6614
+increase found!
+sum 1 = 6614
+sum 2 = 6640
+increase found!
+sum 1 = 6640
+sum 2 = 6659
+increase found!
+sum 1 = 6659
+sum 2 = 6667
+increase found!
+sum 1 = 6667
+sum 2 = 6666
+sum 1 = 6666
+sum 2 = 6690
+increase found!
+sum 1 = 6690
+sum 2 = 6717
+increase found!
+sum 1 = 6717
+sum 2 = 6753
+increase found!
+sum 1 = 6753
+sum 2 = 6773
+increase found!
+sum 1 = 6773
+sum 2 = 6790
+increase found!
+sum 1 = 6790
+sum 2 = 6798
+increase found!
+sum 1 = 6798
+sum 2 = 6799
+increase found!
+sum 1 = 6799
+sum 2 = 6794
+sum 1 = 6794
+sum 2 = 6795
+increase found!
+sum 1 = 6795
+sum 2 = 6795
+sum 1 = 6795
+sum 2 = 6803
+increase found!
+sum 1 = 6803
+sum 2 = 6812
+increase found!
+sum 1 = 6812
+sum 2 = 6818
+increase found!
+sum 1 = 6818
+sum 2 = 6824
+increase found!
+sum 1 = 6824
+sum 2 = 6838
+increase found!
+sum 1 = 6838
+sum 2 = 6847
+increase found!
+sum 1 = 6847
+sum 2 = 6856
+increase found!
+sum 1 = 6856
+sum 2 = 6843
+sum 1 = 6843
+sum 2 = 6838
+sum 1 = 6838
+sum 2 = 6828
+sum 1 = 6828
+sum 2 = 6827
+sum 1 = 6827
+sum 2 = 6828
+increase found!
+sum 1 = 6828
+sum 2 = 6834
+increase found!
+sum 1 = 6834
+sum 2 = 6823
+sum 1 = 6823
+sum 2 = 6804
+sum 1 = 6804
+sum 2 = 6794
+sum 1 = 6794
+sum 2 = 6804
+increase found!
+sum 1 = 6804
+sum 2 = 6826
+increase found!
+sum 1 = 6826
+sum 2 = 6829
+increase found!
+sum 1 = 6829
+sum 2 = 6829
+sum 1 = 6829
+sum 2 = 6817
+sum 1 = 6817
+sum 2 = 6813
+sum 1 = 6813
+sum 2 = 6807
+sum 1 = 6807
+sum 2 = 6811
+increase found!
+sum 1 = 6811
+sum 2 = 6822
+increase found!
+sum 1 = 6822
+sum 2 = 6854
+increase found!
+sum 1 = 6854
+sum 2 = 6881
+increase found!
+sum 1 = 6881
+sum 2 = 6904
+increase found!
+sum 1 = 6904
+sum 2 = 6905
+increase found!
+sum 1 = 6905
+sum 2 = 6910
+increase found!
+sum 1 = 6910
+sum 2 = 6923
+increase found!
+sum 1 = 6923
+sum 2 = 6959
+increase found!
+sum 1 = 6959
+sum 2 = 7002
+increase found!
+sum 1 = 7002
+sum 2 = 7049
+increase found!
+sum 1 = 7049
+sum 2 = 7085
+increase found!
+sum 1 = 7085
+sum 2 = 7113
+increase found!
+sum 1 = 7113
+sum 2 = 7131
+increase found!
+sum 1 = 7131
+sum 2 = 7138
+increase found!
+sum 1 = 7138
+sum 2 = 7163
+increase found!
+sum 1 = 7163
+sum 2 = 7190
+increase found!
+sum 1 = 7190
+sum 2 = 7217
+increase found!
+sum 1 = 7217
+sum 2 = 7221
+increase found!
+sum 1 = 7221
+sum 2 = 7217
+sum 1 = 7217
+sum 2 = 7215
+sum 1 = 7215
+sum 2 = 7218
+increase found!
+sum 1 = 7218
+sum 2 = 7225
+increase found!
+sum 1 = 7225
+sum 2 = 7241
+increase found!
+sum 1 = 7241
+sum 2 = 7252
+increase found!
+sum 1 = 7252
+sum 2 = 7260
+increase found!
+sum 1 = 7260
+sum 2 = 7261
+increase found!
+sum 1 = 7261
+sum 2 = 7256
+sum 1 = 7256
+sum 2 = 7255
+sum 1 = 7255
+sum 2 = 7259
+increase found!
+sum 1 = 7259
+sum 2 = 7240
+sum 1 = 7240
+sum 2 = 7221
+sum 1 = 7221
+sum 2 = 7193
+sum 1 = 7193
+sum 2 = 7208
+increase found!
+sum 1 = 7208
+sum 2 = 7222
+increase found!
+sum 1 = 7222
+sum 2 = 7238
+increase found!
+sum 1 = 7238
+sum 2 = 7220
+sum 1 = 7220
+sum 2 = 7207
+sum 1 = 7207
+sum 2 = 7186
+sum 1 = 7186
+sum 2 = 7182
+sum 1 = 7182
+sum 2 = 7182
+sum 1 = 7182
+sum 2 = 7193
+increase found!
+sum 1 = 7193
+sum 2 = 7209
+increase found!
+sum 1 = 7209
+sum 2 = 7217
+increase found!
+sum 1 = 7217
+sum 2 = 7218
+increase found!
+sum 1 = 7218
+sum 2 = 7222
+increase found!
+sum 1 = 7222
+sum 2 = 7225
+increase found!
+sum 1 = 7225
+sum 2 = 7243
+increase found!
+sum 1 = 7243
+sum 2 = 7261
+increase found!
+sum 1 = 7261
+sum 2 = 7278
+increase found!
+sum 1 = 7278
+sum 2 = 7284
+increase found!
+sum 1 = 7284
+sum 2 = 7275
+sum 1 = 7275
+sum 2 = 7266
+sum 1 = 7266
+sum 2 = 7263
+sum 1 = 7263
+sum 2 = 7273
+increase found!
+sum 1 = 7273
+sum 2 = 7297
+increase found!
+sum 1 = 7297
+sum 2 = 7322
+increase found!
+sum 1 = 7322
+sum 2 = 7358
+increase found!
+sum 1 = 7358
+sum 2 = 7380
+increase found!
+sum 1 = 7380
+sum 2 = 7412
+increase found!
+sum 1 = 7412
+sum 2 = 7424
+increase found!
+sum 1 = 7424
+sum 2 = 7438
+increase found!
+sum 1 = 7438
+sum 2 = 7435
+sum 1 = 7435
+sum 2 = 7440
+increase found!
+sum 1 = 7440
+sum 2 = 7443
+increase found!
+sum 1 = 7443
+sum 2 = 7439
+sum 1 = 7439
+sum 2 = 7422
+sum 1 = 7422
+sum 2 = 7446
+increase found!
+sum 1 = 7446
+sum 2 = 7469
+increase found!
+sum 1 = 7469
+sum 2 = 7505
+increase found!
+sum 1 = 7505
+sum 2 = 7489
+sum 1 = 7489
+sum 2 = 7476
+sum 1 = 7476
+sum 2 = 7456
+sum 1 = 7456
+sum 2 = 7447
+sum 1 = 7447
+sum 2 = 7443
+sum 1 = 7443
+sum 2 = 7470
+increase found!
+sum 1 = 7470
+sum 2 = 7504
+increase found!
+sum 1 = 7504
+sum 2 = 7541
+increase found!
+sum 1 = 7541
+sum 2 = 7560
+increase found!
+sum 1 = 7560
+sum 2 = 7561
+increase found!
+sum 1 = 7561
+sum 2 = 7565
+increase found!
+sum 1 = 7565
+sum 2 = 7569
+increase found!
+sum 1 = 7569
+sum 2 = 7589
+increase found!
+sum 1 = 7589
+sum 2 = 7603
+increase found!
+sum 1 = 7603
+sum 2 = 7611
+increase found!
+sum 1 = 7611
+sum 2 = 7630
+increase found!
+sum 1 = 7630
+sum 2 = 7657
+increase found!
+sum 1 = 7657
+sum 2 = 7672
+increase found!
+sum 1 = 7672
+sum 2 = 7682
+increase found!
+sum 1 = 7682
+sum 2 = 7666
+sum 1 = 7666
+sum 2 = 7650
+sum 1 = 7650
+sum 2 = 7623
+sum 1 = 7623
+sum 2 = 7608
+sum 1 = 7608
+sum 2 = 7608
+sum 1 = 7608
+sum 2 = 7620
+increase found!
+sum 1 = 7620
+sum 2 = 7640
+increase found!
+sum 1 = 7640
+sum 2 = 7644
+increase found!
+sum 1 = 7644
+sum 2 = 7637
+sum 1 = 7637
+sum 2 = 7630
+sum 1 = 7630
+sum 2 = 7639
+increase found!
+sum 1 = 7639
+sum 2 = 7650
+increase found!
+sum 1 = 7650
+sum 2 = 7659
+increase found!
+sum 1 = 7659
+sum 2 = 7682
+increase found!
+sum 1 = 7682
+sum 2 = 7706
+increase found!
+sum 1 = 7706
+sum 2 = 7726
+increase found!
+sum 1 = 7726
+sum 2 = 7748
+increase found!
+sum 1 = 7748
+sum 2 = 7771
+increase found!
+sum 1 = 7771
+sum 2 = 7796
+increase found!
+sum 1 = 7796
+sum 2 = 7783
+sum 1 = 7783
+sum 2 = 7765
+sum 1 = 7765
+sum 2 = 7750
+sum 1 = 7750
+sum 2 = 7747
+sum 1 = 7747
+sum 2 = 7745
+sum 1 = 7745
+sum 2 = 7742
+sum 1 = 7742
+sum 2 = 7753
+increase found!
+sum 1 = 7753
+sum 2 = 7760
+increase found!
+sum 1 = 7760
+sum 2 = 7767
+increase found!
+sum 1 = 7767
+sum 2 = 7772
+increase found!
+sum 1 = 7772
+sum 2 = 7768
+sum 1 = 7768
+sum 2 = 7764
+sum 1 = 7764
+sum 2 = 7753
+sum 1 = 7753
+sum 2 = 7761
+increase found!
+sum 1 = 7761
+sum 2 = 7778
+increase found!
+sum 1 = 7778
+sum 2 = 7801
+increase found!
+sum 1 = 7801
+sum 2 = 7820
+increase found!
+sum 1 = 7820
+sum 2 = 7845
+increase found!
+sum 1 = 7845
+sum 2 = 7874
+increase found!
+sum 1 = 7874
+sum 2 = 7909
+increase found!
+sum 1 = 7909
+sum 2 = 7925
+increase found!
+sum 1 = 7925
+sum 2 = 7937
+increase found!
+sum 1 = 7937
+sum 2 = 7945
+increase found!
+sum 1 = 7945
+sum 2 = 7950
+increase found!
+sum 1 = 7950
+sum 2 = 7951
+increase found!
+sum 1 = 7951
+sum 2 = 7951
+sum 1 = 7951
+sum 2 = 7955
+increase found!
+sum 1 = 7955
+sum 2 = 7959
+increase found!
+sum 1 = 7959
+sum 2 = 7961
+increase found!
+sum 1 = 7961
+sum 2 = 7966
+increase found!
+sum 1 = 7966
+sum 2 = 7971
+increase found!
+sum 1 = 7971
+sum 2 = 8002
+increase found!
+sum 1 = 8002
+sum 2 = 8044
+increase found!
+sum 1 = 8044
+sum 2 = 8088
+increase found!
+sum 1 = 8088
+sum 2 = 8080
+sum 1 = 8080
+sum 2 = 8062
+sum 1 = 8062
+sum 2 = 8044
+sum 1 = 8044
+sum 2 = 8048
+increase found!
+sum 1 = 8048
+sum 2 = 8048
+sum 1 = 8048
+sum 2 = 8047
+sum 1 = 8047
+sum 2 = 8048
+increase found!
+sum 1 = 8048
+sum 2 = 8068
+increase found!
+sum 1 = 8068
+sum 2 = 8094
+increase found!
+sum 1 = 8094
+sum 2 = 8121
+increase found!
+sum 1 = 8121
+sum 2 = 8135
+increase found!
+sum 1 = 8135
+sum 2 = 8142
+increase found!
+sum 1 = 8142
+sum 2 = 8156
+increase found!
+sum 1 = 8156
+sum 2 = 8156
+sum 1 = 8156
+sum 2 = 8159
+increase found!
+sum 1 = 8159
+sum 2 = 8154
+sum 1 = 8154
+sum 2 = 8155
+increase found!
+sum 1 = 8155
+sum 2 = 8153
+sum 1 = 8153
+sum 2 = 8137
+sum 1 = 8137
+sum 2 = 8128
+sum 1 = 8128
+sum 2 = 8116
+sum 1 = 8116
+sum 2 = 8107
+sum 1 = 8107
+sum 2 = 8097
+sum 1 = 8097
+sum 2 = 8088
+sum 1 = 8088
+sum 2 = 8092
+increase found!
+sum 1 = 8092
+sum 2 = 8092
+sum 1 = 8092
+sum 2 = 8094
+increase found!
+sum 1 = 8094
+sum 2 = 8113
+increase found!
+sum 1 = 8113
+sum 2 = 8138
+increase found!
+sum 1 = 8138
+sum 2 = 8166
+increase found!
+sum 1 = 8166
+sum 2 = 8175
+increase found!
+sum 1 = 8175
+sum 2 = 8181
+increase found!
+sum 1 = 8181
+sum 2 = 8179
+sum 1 = 8179
+sum 2 = 8174
+sum 1 = 8174
+sum 2 = 8177
+increase found!
+sum 1 = 8177
+sum 2 = 8185
+increase found!
+sum 1 = 8185
+sum 2 = 8191
+increase found!
+sum 1 = 8191
+sum 2 = 8185
+sum 1 = 8185
+sum 2 = 8175
+sum 1 = 8175
+sum 2 = 8175
+sum 1 = 8175
+sum 2 = 8185
+increase found!
+sum 1 = 8185
+sum 2 = 8192
+increase found!
+sum 1 = 8192
+sum 2 = 8195
+increase found!
+sum 1 = 8195
+sum 2 = 8193
+sum 1 = 8193
+sum 2 = 8203
+increase found!
+sum 1 = 8203
+sum 2 = 8206
+increase found!
+sum 1 = 8206
+sum 2 = 8230
+increase found!
+sum 1 = 8230
+sum 2 = 8254
+increase found!
+sum 1 = 8254
+sum 2 = 8285
+increase found!
+sum 1 = 8285
+sum 2 = 8300
+increase found!
+sum 1 = 8300
+sum 2 = 8308
+increase found!
+sum 1 = 8308
+sum 2 = 8315
+increase found!
+sum 1 = 8315
+sum 2 = 8311
+sum 1 = 8311
+sum 2 = 8305
+sum 1 = 8305
+sum 2 = 8292
+sum 1 = 8292
+sum 2 = 8296
+increase found!
+sum 1 = 8296
+sum 2 = 8306
+increase found!
+sum 1 = 8306
+sum 2 = 8314
+increase found!
+sum 1 = 8314
+sum 2 = 8313
+sum 1 = 8313
+sum 2 = 8312
+sum 1 = 8312
+sum 2 = 8315
+increase found!
+sum 1 = 8315
+sum 2 = 8302
+sum 1 = 8302
+sum 2 = 8300
+sum 1 = 8300
+sum 2 = 8305
+increase found!
+sum 1 = 8305
+sum 2 = 8336
+increase found!
+sum 1 = 8336
+sum 2 = 8355
+increase found!
+sum 1 = 8355
+sum 2 = 8373
+increase found!
+sum 1 = 8373
+sum 2 = 8384
+increase found!
+sum 1 = 8384
+sum 2 = 8373
+sum 1 = 8373
+sum 2 = 8371
+sum 1 = 8371
+sum 2 = 8348
+sum 1 = 8348
+sum 2 = 8346
+sum 1 = 8346
+sum 2 = 8329
+sum 1 = 8329
+sum 2 = 8331
+increase found!
+sum 1 = 8331
+sum 2 = 8333
+increase found!
+sum 1 = 8333
+sum 2 = 8338
+increase found!
+sum 1 = 8338
+sum 2 = 8339
+increase found!
+sum 1 = 8339
+sum 2 = 8340
+increase found!
+sum 1 = 8340
+sum 2 = 8344
+increase found!
+sum 1 = 8344
+sum 2 = 8352
+increase found!
+sum 1 = 8352
+sum 2 = 8367
+increase found!
+sum 1 = 8367
+sum 2 = 8384
+increase found!
+sum 1 = 8384
+sum 2 = 8395
+increase found!
+sum 1 = 8395
+sum 2 = 8406
+increase found!
+sum 1 = 8406
+sum 2 = 8417
+increase found!
+sum 1 = 8417
+sum 2 = 8443
+increase found!
+sum 1 = 8443
+sum 2 = 8462
+increase found!
+sum 1 = 8462
+sum 2 = 8482
+increase found!
+sum 1 = 8482
+sum 2 = 8499
+increase found!
+sum 1 = 8499
+sum 2 = 8516
+increase found!
+sum 1 = 8516
+sum 2 = 8537
+increase found!
+sum 1 = 8537
+sum 2 = 8549
+increase found!
+sum 1 = 8549
+sum 2 = 8564
+increase found!
+sum 1 = 8564
+sum 2 = 8553
+sum 1 = 8553
+sum 2 = 8541
+sum 1 = 8541
+sum 2 = 8520
+sum 1 = 8520
+sum 2 = 8517
+sum 1 = 8517
+sum 2 = 8514
+sum 1 = 8514
+sum 2 = 8520
+increase found!
+sum 1 = 8520
+sum 2 = 8543
+increase found!
+sum 1 = 8543
+sum 2 = 8592
+increase found!
+sum 1 = 8592
+sum 2 = 8641
+increase found!
+sum 1 = 8641
+sum 2 = 8666
+increase found!
+sum 1 = 8666
+sum 2 = 8663
+sum 1 = 8663
+sum 2 = 8675
+increase found!
+sum 1 = 8675
+sum 2 = 8694
+increase found!
+sum 1 = 8694
+sum 2 = 8736
+increase found!
+sum 1 = 8736
+sum 2 = 8760
+increase found!
+sum 1 = 8760
+sum 2 = 8784
+increase found!
+sum 1 = 8784
+sum 2 = 8772
+sum 1 = 8772
+sum 2 = 8761
+sum 1 = 8761
+sum 2 = 8727
+sum 1 = 8727
+sum 2 = 8713
+sum 1 = 8713
+sum 2 = 8719
+increase found!
+sum 1 = 8719
+sum 2 = 8756
+increase found!
+sum 1 = 8756
+sum 2 = 8789
+increase found!
+sum 1 = 8789
+sum 2 = 8802
+increase found!
+sum 1 = 8802
+sum 2 = 8808
+increase found!
+sum 1 = 8808
+sum 2 = 8818
+increase found!
+sum 1 = 8818
+sum 2 = 8829
+increase found!
+sum 1 = 8829
+sum 2 = 8842
+increase found!
+sum 1 = 8842
+sum 2 = 8857
+increase found!
+sum 1 = 8857
+sum 2 = 8868
+increase found!
+sum 1 = 8868
+sum 2 = 8873
+increase found!
+sum 1 = 8873
+sum 2 = 8858
+sum 1 = 8858
+sum 2 = 8842
+sum 1 = 8842
+sum 2 = 8827
+sum 1 = 8827
+sum 2 = 8825
+sum 1 = 8825
+sum 2 = 8812
+sum 1 = 8812
+sum 2 = 8817
+increase found!
+sum 1 = 8817
+sum 2 = 8829
+increase found!
+sum 1 = 8829
+sum 2 = 8848
+increase found!
+sum 1 = 8848
+sum 2 = 8851
+increase found!
+sum 1 = 8851
+sum 2 = 8870
+increase found!
+sum 1 = 8870
+sum 2 = 8902
+increase found!
+sum 1 = 8902
+sum 2 = 8934
+increase found!
+sum 1 = 8934
+sum 2 = 8955
+increase found!
+sum 1 = 8955
+sum 2 = 8972
+increase found!
+sum 1 = 8972
+sum 2 = 9012
+increase found!
+sum 1 = 9012
+sum 2 = 9056
+increase found!
+sum 1 = 9056
+sum 2 = 9106
+increase found!
+sum 1 = 9106
+sum 2 = 9145
+increase found!
+sum 1 = 9145
+sum 2 = 9165
+increase found!
+sum 1 = 9165
+sum 2 = 9179
+increase found!
+sum 1 = 9179
+sum 2 = 9176
+sum 1 = 9176
+sum 2 = 9191
+increase found!
+sum 1 = 9191
+sum 2 = 9204
+increase found!
+sum 1 = 9204
+sum 2 = 9241
+increase found!
+sum 1 = 9241
+sum 2 = 9294
+increase found!
+sum 1 = 9294
+sum 2 = 9345
+increase found!
+sum 1 = 9345
+sum 2 = 9377
+increase found!
+sum 1 = 9377
+sum 2 = 9373
+sum 1 = 9373
+sum 2 = 9371
+sum 1 = 9371
+sum 2 = 9367
+sum 1 = 9367
+sum 2 = 9365
+sum 1 = 9365
+sum 2 = 9357
+sum 1 = 9357
+sum 2 = 9349
+sum 1 = 9349
+sum 2 = 9342
+sum 1 = 9342
+sum 2 = 9344
+increase found!
+sum 1 = 9344
+sum 2 = 9352
+increase found!
+sum 1 = 9352
+sum 2 = 9360
+increase found!
+sum 1 = 9360
+sum 2 = 9366
+increase found!
+sum 1 = 9366
+sum 2 = 9377
+increase found!
+sum 1 = 9377
+sum 2 = 9390
+increase found!
+sum 1 = 9390
+sum 2 = 9405
+increase found!
+sum 1 = 9405
+sum 2 = 9424
+increase found!
+sum 1 = 9424
+sum 2 = 9443
+increase found!
+sum 1 = 9443
+sum 2 = 9460
+increase found!
+sum 1 = 9460
+sum 2 = 9462
+increase found!
+sum 1 = 9462
+sum 2 = 9468
+increase found!
+sum 1 = 9468
+sum 2 = 9469
+increase found!
+sum 1 = 9469
+sum 2 = 9468
+sum 1 = 9468
+sum 2 = 9468
+sum 1 = 9468
+sum 2 = 9472
+increase found!
+sum 1 = 9472
+sum 2 = 9480
+increase found!
+sum 1 = 9480
+sum 2 = 9478
+sum 1 = 9478
+sum 2 = 9476
+sum 1 = 9476
+sum 2 = 9475
+sum 1 = 9475
+sum 2 = 9479
+increase found!
+sum 1 = 9479
+sum 2 = 9491
+increase found!
+sum 1 = 9491
+sum 2 = 9533
+increase found!
+sum 1 = 9533
+sum 2 = 9576
+increase found!
+sum 1 = 9576
+sum 2 = 9631
+increase found!
+sum 1 = 9631
+sum 2 = 9640
+increase found!
+sum 1 = 9640
+sum 2 = 9643
+increase found!
+sum 1 = 9643
+sum 2 = 9627
+sum 1 = 9627
+sum 2 = 9627
+sum 1 = 9627
+sum 2 = 9626
+sum 1 = 9626
+sum 2 = 9624
+sum 1 = 9624
+sum 2 = 9627
+increase found!
+sum 1 = 9627
+sum 2 = 9634
+increase found!
+sum 1 = 9634
+sum 2 = 9633
+sum 1 = 9633
+sum 2 = 9618
+sum 1 = 9618
+sum 2 = 9603
+sum 1 = 9603
+sum 2 = 9605
+increase found!
+sum 1 = 9605
+sum 2 = 9631
+increase found!
+sum 1 = 9631
+sum 2 = 9659
+increase found!
+sum 1 = 9659
+sum 2 = 9678
+increase found!
+sum 1 = 9678
+sum 2 = 9691
+increase found!
+sum 1 = 9691
+sum 2 = 9673
+sum 1 = 9673
+sum 2 = 9655
+sum 1 = 9655
+sum 2 = 9627
+sum 1 = 9627
+sum 2 = 9630
+increase found!
+sum 1 = 9630
+sum 2 = 9635
+increase found!
+sum 1 = 9635
+sum 2 = 9634
+sum 1 = 9634
+sum 2 = 9633
+sum 1 = 9633
+sum 2 = 9652
+increase found!
+sum 1 = 9652
+sum 2 = 9675
+increase found!
+sum 1 = 9675
+sum 2 = 9698
+increase found!
+sum 1 = 9698
+sum 2 = 9699
+increase found!
+sum 1 = 9699
+sum 2 = 9704
+increase found!
+sum 1 = 9704
+sum 2 = 9711
+increase found!
+sum 1 = 9711
+sum 2 = 9723
+increase found!
+sum 1 = 9723
+sum 2 = 9738
+increase found!
+sum 1 = 9738
+sum 2 = 9737
+sum 1 = 9737
+sum 2 = 9737
+sum 1 = 9737
+sum 2 = 9733
+sum 1 = 9733
+sum 2 = 9740
+increase found!
+sum 1 = 9740
+sum 2 = 9742
+increase found!
+sum 1 = 9742
+sum 2 = 9744
+increase found!
+sum 1 = 9744
+sum 2 = 9756
+increase found!
+sum 1 = 9756
+sum 2 = 9767
+increase found!
+sum 1 = 9767
+sum 2 = 9777
+increase found!
+sum 1 = 9777
+sum 2 = 9790
+increase found!
+sum 1 = 9790
+sum 2 = 9803
+increase found!
+sum 1 = 9803
+sum 2 = 9823
+increase found!
+sum 1 = 9823
+sum 2 = 9840
+increase found!
+sum 1 = 9840
+sum 2 = 9847
+increase found!
+sum 1 = 9847
+sum 2 = 9839
+sum 1 = 9839
+sum 2 = 9825
+sum 1 = 9825
+sum 2 = 9826
+increase found!
+sum 1 = 9826
+sum 2 = 9842
+increase found!
+sum 1 = 9842
+sum 2 = 9860
+increase found!
+sum 1 = 9860
+sum 2 = 9893
+increase found!
+sum 1 = 9893
+sum 2 = 9912
+increase found!
+sum 1 = 9912
+sum 2 = 9922
+increase found!
+sum 1 = 9922
+sum 2 = 9912
+sum 1 = 9912
+sum 2 = 9909
+sum 1 = 9909
+sum 2 = 9909
+sum 1 = 9909
+sum 2 = 9910
+increase found!
+sum 1 = 9910
+sum 2 = 9913
+increase found!
+sum 1 = 9913
+sum 2 = 9931
+increase found!
+sum 1 = 9931
+sum 2 = 9933
+increase found!
+sum 1 = 9933
+sum 2 = 9929
+sum 1 = 9929
+sum 2 = 9913
+sum 1 = 9913
+sum 2 = 9910
+sum 1 = 9910
+sum 2 = 9899
+sum 1 = 9899
+sum 2 = 9888
+sum 1 = 9888
+sum 2 = 9867
+sum 1 = 9867
+sum 2 = 9860
+sum 1 = 9860
+sum 2 = 9853
+sum 1 = 9853
+sum 2 = 9852
+sum 1 = 9852
+sum 2 = 9843
+sum 1 = 9843
+sum 2 = 9840
+sum 1 = 9840
+sum 2 = 9805
+sum 1 = 9805
+sum 2 = 9776
+sum 1 = 9776
+sum 2 = 9747
+sum 1 = 9747
+sum 2 = 9769
+increase found!
+sum 1 = 9769
+sum 2 = 9789
+increase found!
+sum 1 = 9789
+sum 2 = 9809
+increase found!
+sum 1 = 9809
+sum 2 = 9817
+increase found!
+sum 1 = 9817
+sum 2 = 9838
+increase found!
+sum 1 = 9838
+sum 2 = 9853
+increase found!
+sum 1 = 9853
+sum 2 = 9865
+increase found!
+sum 1 = 9865
+sum 2 = 9852
+sum 1 = 9852
+sum 2 = 9837
+sum 1 = 9837
+sum 2 = 9825
+sum 1 = 9825
+sum 2 = 9821
+sum 1 = 9821
+sum 2 = 9820
+sum 1 = 9820
+sum 2 = 9815
+sum 1 = 9815
+sum 2 = 9814
+sum 1 = 9814
+sum 2 = 9806
+sum 1 = 9806
+sum 2 = 9806
+sum 1 = 9806
+sum 2 = 9802
+sum 1 = 9802
+sum 2 = 9795
+sum 1 = 9795
+sum 2 = 9783
+sum 1 = 9783
+sum 2 = 9773
+sum 1 = 9773
+sum 2 = 9770
+sum 1 = 9770
+sum 2 = 9761
+sum 1 = 9761
+sum 2 = 9766
+increase found!
+sum 1 = 9766
+sum 2 = 9776
+increase found!
+sum 1 = 9776
+sum 2 = 9789
+increase found!
+sum 1 = 9789
+sum 2 = 9792
+increase found!
+sum 1 = 9792
+sum 2 = 9792
+sum 1 = 9792
+sum 2 = 9808
+increase found!
+sum 1 = 9808
+sum 2 = 9824
+increase found!
+sum 1 = 9824
+sum 2 = 9844
+increase found!
+sum 1 = 9844
+sum 2 = 9866
+increase found!
+sum 1 = 9866
+sum 2 = 9890
+increase found!
+sum 1 = 9890
+sum 2 = 9896
+increase found!
+sum 1 = 9896
+sum 2 = 9878
+sum 1 = 9878
+sum 2 = 9874
+sum 1 = 9874
+sum 2 = 9884
+increase found!
+sum 1 = 9884
+sum 2 = 9896
+increase found!
+sum 1 = 9896
+sum 2 = 9894
+sum 1 = 9894
+sum 2 = 9890
+sum 1 = 9890
+sum 2 = 9891
+increase found!
+sum 1 = 9891
+sum 2 = 9884
+sum 1 = 9884
+sum 2 = 9881
+sum 1 = 9881
+sum 2 = 9882
+increase found!
+sum 1 = 9882
+sum 2 = 9892
+increase found!
+sum 1 = 9892
+sum 2 = 9896
+increase found!
+sum 1 = 9896
+sum 2 = 9898
+increase found!
+sum 1 = 9898
+sum 2 = 9862
+sum 1 = 9862
+sum 2 = 9830
+sum 1 = 9830
+sum 2 = 9801
+sum 1 = 9801
+sum 2 = 9801
+sum 1 = 9801
+sum 2 = 9817
+increase found!
+sum 1 = 9817
+sum 2 = 9836
+increase found!
+sum 1 = 9836
+sum 2 = 9859
+increase found!
+sum 1 = 9859
+sum 2 = 9867
+increase found!
+sum 1 = 9867
+sum 2 = 9867
+sum 1 = 9867
+sum 2 = 9870
+increase found!
+sum 1 = 9870
+sum 2 = 9873
+increase found!
+sum 1 = 9873
+sum 2 = 9879
+increase found!
+sum 1 = 9879
+sum 2 = 9884
+increase found!
+sum 1 = 9884
+sum 2 = 9888
+increase found!
+sum 1 = 9888
+sum 2 = 9862
+sum 1 = 9862
+sum 2 = 9846
+sum 1 = 9846
+sum 2 = 9830
+sum 1 = 9830
+sum 2 = 9843
+increase found!
+sum 1 = 9843
+sum 2 = 9854
+increase found!
+sum 1 = 9854
+sum 2 = 9879
+increase found!
+sum 1 = 9879
+sum 2 = 9901
+increase found!
+sum 1 = 9901
+sum 2 = 9915
+increase found!
+sum 1 = 9915
+sum 2 = 9915
+sum 1 = 9915
+sum 2 = 9940
+increase found!
+sum 1 = 9940
+sum 2 = 9962
+increase found!
+sum 1 = 9962
+sum 2 = 9987
+increase found!
+sum 1 = 9987
+sum 2 = 9990
+increase found!
+sum 1 = 9990
+sum 2 = 9997
+increase found!
+sum 1 = 9997
+sum 2 = 10004
+increase found!
+sum 1 = 10004
+sum 2 = 9990
+sum 1 = 9990
+sum 2 = 9971
+sum 1 = 9971
+sum 2 = 9956
+sum 1 = 9956
+sum 2 = 9962
+increase found!
+sum 1 = 9962
+sum 2 = 9972
+increase found!
+sum 1 = 9972
+sum 2 = 9976
+increase found!
+sum 1 = 9976
+sum 2 = 9980
+increase found!
+sum 1 = 9980
+sum 2 = 9981
+increase found!
+sum 1 = 9981
+sum 2 = 9983
+increase found!
+sum 1 = 9983
+sum 2 = 9997
+increase found!
+sum 1 = 9997
+sum 2 = 10014
+increase found!
+sum 1 = 10014
+sum 2 = 10029
+increase found!
+sum 1 = 10029
+sum 2 = 10032
+increase found!
+sum 1 = 10032
+sum 2 = 10035
+increase found!
+sum 1 = 10035
+sum 2 = 10036
+increase found!
+sum 1 = 10036
+sum 2 = 10012
+sum 1 = 10012
+sum 2 = 9986
+sum 1 = 9986
+sum 2 = 9959
+sum 1 = 9959
+sum 2 = 9953
+sum 1 = 9953
+sum 2 = 9951
+sum 1 = 9951
+sum 2 = 9977
+increase found!
+sum 1 = 9977
+sum 2 = 10011
+increase found!
+sum 1 = 10011
+sum 2 = 10047
+increase found!
+sum 1 = 10047
+sum 2 = 10056
+increase found!
+sum 1 = 10056
+sum 2 = 10058
+increase found!
+sum 1 = 10058
+sum 2 = 10066
+increase found!
+sum 1 = 10066
+sum 2 = 10092
+increase found!
+sum 1 = 10092
+sum 2 = 10136
+increase found!
+sum 1 = 10136
+sum 2 = 10195
+increase found!
+sum 1 = 10195
+sum 2 = 10239
+increase found!
+sum 1 = 10239
+sum 2 = 10255
+increase found!
+sum 1 = 10255
+sum 2 = 10240
+sum 1 = 10240
+sum 2 = 10220
+sum 1 = 10220
+sum 2 = 10216
+sum 1 = 10216
+sum 2 = 10218
+increase found!
+sum 1 = 10218
+sum 2 = 10221
+increase found!
+sum 1 = 10221
+sum 2 = 10222
+increase found!
+sum 1 = 10222
+sum 2 = 10227
+increase found!
+sum 1 = 10227
+sum 2 = 10228
+increase found!
+sum 1 = 10228
+sum 2 = 10243
+increase found!
+sum 1 = 10243
+sum 2 = 10265
+increase found!
+sum 1 = 10265
+sum 2 = 10295
+increase found!
+sum 1 = 10295
+sum 2 = 10310
+increase found!
+sum 1 = 10310
+sum 2 = 10316
+increase found!
+sum 1 = 10316
+sum 2 = 10331
+increase found!
+sum 1 = 10331
+sum 2 = 10346
+increase found!
+sum 1 = 10346
+sum 2 = 10357
+increase found!
+sum 1 = 10357
+sum 2 = 10358
+increase found!
+sum 1 = 10358
+sum 2 = 10362
+increase found!
+sum 1 = 10362
+sum 2 = 10373
+increase found!
+sum 1 = 10373
+sum 2 = 10376
+increase found!
+sum 1 = 10376
+sum 2 = 10358
+sum 1 = 10358
+sum 2 = 10332
+sum 1 = 10332
+sum 2 = 10317
+sum 1 = 10317
+sum 2 = 10317
+sum 1 = 10317
+sum 2 = 10322
+increase found!
+sum 1 = 10322
+sum 2 = 10324
+increase found!
+sum 1 = 10324
+sum 2 = 10330
+increase found!
+sum 1 = 10330
+sum 2 = 10340
+increase found!
+sum 1 = 10340
+sum 2 = 10356
+increase found!
+sum 1 = 10356
+sum 2 = 10385
+increase found!
+sum 1 = 10385
+sum 2 = 10399
+increase found!
+sum 1 = 10399
+sum 2 = 10396
+sum 1 = 10396
+sum 2 = 10402
+increase found!
+sum 1 = 10402
+sum 2 = 10415
+increase found!
+sum 1 = 10415
+sum 2 = 10440
+increase found!
+sum 1 = 10440
+sum 2 = 10457
+increase found!
+sum 1 = 10457
+sum 2 = 10478
+increase found!
+sum 1 = 10478
+sum 2 = 10491
+increase found!
+sum 1 = 10491
+sum 2 = 10490
+sum 1 = 10490
+sum 2 = 10492
+increase found!
+sum 1 = 10492
+sum 2 = 10484
+sum 1 = 10484
+sum 2 = 10477
+sum 1 = 10477
+sum 2 = 10471
+sum 1 = 10471
+sum 2 = 10490
+increase found!
+sum 1 = 10490
+sum 2 = 10527
+increase found!
+sum 1 = 10527
+sum 2 = 10574
+increase found!
+sum 1 = 10574
+sum 2 = 10618
+increase found!
+sum 1 = 10618
+sum 2 = 10642
+increase found!
+sum 1 = 10642
+sum 2 = 10651
+increase found!
+sum 1 = 10651
+sum 2 = 10657
+increase found!
+sum 1 = 10657
+sum 2 = 10666
+increase found!
+sum 1 = 10666
+sum 2 = 10672
+increase found!
+sum 1 = 10672
+sum 2 = 10683
+increase found!
+sum 1 = 10683
+sum 2 = 10692
+increase found!
+sum 1 = 10692
+sum 2 = 10701
+increase found!
+sum 1 = 10701
+sum 2 = 10703
+increase found!
+sum 1 = 10703
+sum 2 = 10704
+increase found!
+sum 1 = 10704
+sum 2 = 10692
+sum 1 = 10692
+sum 2 = 10700
+increase found!
+sum 1 = 10700
+sum 2 = 10698
+sum 1 = 10698
+sum 2 = 10709
+increase found!
+sum 1 = 10709
+sum 2 = 10696
+sum 1 = 10696
+sum 2 = 10719
+increase found!
+sum 1 = 10719
+sum 2 = 10750
+increase found!
+sum 1 = 10750
+sum 2 = 10809
+increase found!
+sum 1 = 10809
+sum 2 = 10842
+increase found!
+sum 1 = 10842
+sum 2 = 10855
+increase found!
+sum 1 = 10855
+sum 2 = 10844
+sum 1 = 10844
+sum 2 = 10836
+sum 1 = 10836
+sum 2 = 10842
+increase found!
+sum 1 = 10842
+sum 2 = 10851
+increase found!
+sum 1 = 10851
+sum 2 = 10889
+increase found!
+sum 1 = 10889
+sum 2 = 10935
+increase found!
+sum 1 = 10935
+sum 2 = 10964
+increase found!
+sum 1 = 10964
+sum 2 = 10972
+increase found!
+sum 1 = 10972
+sum 2 = 10974
+increase found!
+sum 1 = 10974
+sum 2 = 10981
+increase found!
+sum 1 = 10981
+sum 2 = 10992
+increase found!
+sum 1 = 10992
+sum 2 = 11008
+increase found!
+sum 1 = 11008
+sum 2 = 11033
+increase found!
+sum 1 = 11033
+sum 2 = 11048
+increase found!
+sum 1 = 11048
+sum 2 = 11061
+increase found!
+sum 1 = 11061
+sum 2 = 11072
+increase found!
+sum 1 = 11072
+sum 2 = 11091
+increase found!
+sum 1 = 11091
+sum 2 = 11084
+sum 1 = 11084
+sum 2 = 11077
+sum 1 = 11077
+sum 2 = 11046
+sum 1 = 11046
+sum 2 = 11029
+sum 1 = 11029
+sum 2 = 11016
+sum 1 = 11016
+sum 2 = 11014
+sum 1 = 11014
+sum 2 = 11012
+sum 1 = 11012
+sum 2 = 11014
+increase found!
+sum 1 = 11014
+sum 2 = 11018
+increase found!
+sum 1 = 11018
+sum 2 = 11014
+sum 1 = 11014
+sum 2 = 11025
+increase found!
+sum 1 = 11025
+sum 2 = 11029
+increase found!
+sum 1 = 11029
+sum 2 = 11048
+increase found!
+sum 1 = 11048
+sum 2 = 11058
+increase found!
+sum 1 = 11058
+sum 2 = 11065
+increase found!
+sum 1 = 11065
+sum 2 = 11085
+increase found!
+sum 1 = 11085
+sum 2 = 11098
+increase found!
+sum 1 = 11098
+sum 2 = 11119
+increase found!
+sum 1 = 11119
+sum 2 = 11125
+increase found!
+sum 1 = 11125
+sum 2 = 11128
+increase found!
+sum 1 = 11128
+sum 2 = 11126
+sum 1 = 11126
+sum 2 = 11147
+increase found!
+sum 1 = 11147
+sum 2 = 11166
+increase found!
+sum 1 = 11166
+sum 2 = 11207
+increase found!
+sum 1 = 11207
+sum 2 = 11253
+increase found!
+sum 1 = 11253
+sum 2 = 11302
+increase found!
+sum 1 = 11302
+sum 2 = 11334
+increase found!
+sum 1 = 11334
+sum 2 = 11343
+increase found!
+sum 1 = 11343
+sum 2 = 11361
+increase found!
+sum 1 = 11361
+sum 2 = 11384
+increase found!
+sum 1 = 11384
+sum 2 = 11422
+increase found!
+sum 1 = 11422
+sum 2 = 11468
+increase found!
+sum 1 = 11468
+sum 2 = 11525
+increase found!
+sum 1 = 11525
+sum 2 = 11591
+increase found!
+sum 1 = 11591
+sum 2 = 11623
+increase found!
+sum 1 = 11623
+sum 2 = 11629
+increase found!
+sum 1 = 11629
+sum 2 = 11610
+sum 1 = 11610
+sum 2 = 11613
+increase found!
+sum 1 = 11613
+sum 2 = 11624
+increase found!
+sum 1 = 11624
+sum 2 = 11641
+increase found!
+sum 1 = 11641
+sum 2 = 11651
+increase found!
+sum 1 = 11651
+sum 2 = 11663
+increase found!
+sum 1 = 11663
+sum 2 = 11671
+increase found!
+sum 1 = 11671
+sum 2 = 11688
+increase found!
+sum 1 = 11688
+sum 2 = 11718
+increase found!
+sum 1 = 11718
+sum 2 = 11745
+increase found!
+sum 1 = 11745
+sum 2 = 11762
+increase found!
+sum 1 = 11762
+sum 2 = 11807
+increase found!
+sum 1 = 11807
+sum 2 = 11851
+increase found!
+sum 1 = 11851
+sum 2 = 11896
+increase found!
+sum 1 = 11896
+sum 2 = 11892
+sum 1 = 11892
+sum 2 = 11905
+increase found!
+sum 1 = 11905
+sum 2 = 11915
+increase found!
+sum 1 = 11915
+sum 2 = 11938
+increase found!
+sum 1 = 11938
+sum 2 = 11949
+increase found!
+sum 1 = 11949
+sum 2 = 11969
+increase found!
+sum 1 = 11969
+sum 2 = 11985
+increase found!
+sum 1 = 11985
+sum 2 = 12006
+increase found!
+sum 1 = 12006
+sum 2 = 12007
+increase found!
+sum 1 = 12007
+sum 2 = 12007
+sum 1 = 12007
+sum 2 = 12010
+increase found!
+sum 1 = 12010
+sum 2 = 12037
+increase found!
+sum 1 = 12037
+sum 2 = 12071
+increase found!
+sum 1 = 12071
+sum 2 = 12108
+increase found!
+sum 1 = 12108
+sum 2 = 12134
+increase found!
+sum 1 = 12134
+sum 2 = 12154
+increase found!
+sum 1 = 12154
+sum 2 = 12156
+increase found!
+sum 1 = 12156
+sum 2 = 12155
+sum 1 = 12155
+sum 2 = 12153
+sum 1 = 12153
+sum 2 = 12153
+sum 1 = 12153
+sum 2 = 12156
+increase found!
+sum 1 = 12156
+sum 2 = 12174
+increase found!
+sum 1 = 12174
+sum 2 = 12193
+increase found!
+sum 1 = 12193
+sum 2 = 12219
+increase found!
+sum 1 = 12219
+sum 2 = 12232
+increase found!
+sum 1 = 12232
+sum 2 = 12244
+increase found!
+sum 1 = 12244
+sum 2 = 12250
+increase found!
+sum 1 = 12250
+sum 2 = 12249
+sum 1 = 12249
+sum 2 = 12242
+sum 1 = 12242
+sum 2 = 12247
+increase found!
+sum 1 = 12247
+sum 2 = 12257
+increase found!
+sum 1 = 12257
+sum 2 = 12279
+increase found!
+sum 1 = 12279
+sum 2 = 12294
+increase found!
+sum 1 = 12294
+sum 2 = 12324
+increase found!
+sum 1 = 12324
+sum 2 = 12345
+increase found!
+sum 1 = 12345
+sum 2 = 12364
+increase found!
+sum 1 = 12364
+sum 2 = 12373
+increase found!
+sum 1 = 12373
+sum 2 = 12386
+increase found!
+sum 1 = 12386
+sum 2 = 12393
+increase found!
+sum 1 = 12393
+sum 2 = 12393
+sum 1 = 12393
+sum 2 = 12355
+sum 1 = 12355
+sum 2 = 12330
+sum 1 = 12330
+sum 2 = 12305
+sum 1 = 12305
+sum 2 = 12311
+increase found!
+sum 1 = 12311
+sum 2 = 12303
+sum 1 = 12303
+sum 2 = 12290
+sum 1 = 12290
+sum 2 = 12281
+sum 1 = 12281
+sum 2 = 12276
+sum 1 = 12276
+sum 2 = 12275
+sum 1 = 12275
+sum 2 = 12285
+increase found!
+sum 1 = 12285
+sum 2 = 12294
+increase found!
+sum 1 = 12294
+sum 2 = 12307
+increase found!
+sum 1 = 12307
+sum 2 = 12311
+increase found!
+sum 1 = 12311
+sum 2 = 12309
+sum 1 = 12309
+sum 2 = 12316
+increase found!
+sum 1 = 12316
+sum 2 = 12344
+increase found!
+sum 1 = 12344
+sum 2 = 12378
+increase found!
+sum 1 = 12378
+sum 2 = 12407
+increase found!
+sum 1 = 12407
+sum 2 = 12410
+increase found!
+sum 1 = 12410
+sum 2 = 12397
+sum 1 = 12397
+sum 2 = 12377
+sum 1 = 12377
+sum 2 = 12380
+increase found!
+sum 1 = 12380
+sum 2 = 12399
+increase found!
+sum 1 = 12399
+sum 2 = 12420
+increase found!
+sum 1 = 12420
+sum 2 = 12421
+increase found!
+sum 1 = 12421
+sum 2 = 12425
+increase found!
+sum 1 = 12425
+sum 2 = 12436
+increase found!
+sum 1 = 12436
+sum 2 = 12429
+sum 1 = 12429
+sum 2 = 12421
+sum 1 = 12421
+sum 2 = 12417
+sum 1 = 12417
+sum 2 = 12433
+increase found!
+sum 1 = 12433
+sum 2 = 12445
+increase found!
+sum 1 = 12445
+sum 2 = 12463
+increase found!
+sum 1 = 12463
+sum 2 = 12485
+increase found!
+sum 1 = 12485
+sum 2 = 12499
+increase found!
+sum 1 = 12499
+sum 2 = 12512
+increase found!
+sum 1 = 12512
+sum 2 = 12516
+increase found!
+sum 1 = 12516
+sum 2 = 12539
+increase found!
+sum 1 = 12539
+sum 2 = 12546
+increase found!
+sum 1 = 12546
+sum 2 = 12572
+increase found!
+sum 1 = 12572
+sum 2 = 12605
+increase found!
+sum 1 = 12605
+sum 2 = 12645
+increase found!
+sum 1 = 12645
+sum 2 = 12668
+increase found!
+sum 1 = 12668
+sum 2 = 12664
+sum 1 = 12664
+sum 2 = 12650
+sum 1 = 12650
+sum 2 = 12613
+sum 1 = 12613
+sum 2 = 12590
+sum 1 = 12590
+sum 2 = 12572
+sum 1 = 12572
+sum 2 = 12578
+increase found!
+sum 1 = 12578
+sum 2 = 12583
+increase found!
+sum 1 = 12583
+sum 2 = 12588
+increase found!
+sum 1 = 12588
+sum 2 = 12590
+increase found!
+sum 1 = 12590
+sum 2 = 12590
+sum 1 = 12590
+sum 2 = 12569
+sum 1 = 12569
+sum 2 = 12551
+sum 1 = 12551
+sum 2 = 12535
+sum 1 = 12535
+sum 2 = 12529
+sum 1 = 12529
+sum 2 = 12525
+sum 1 = 12525
+sum 2 = 12511
+sum 1 = 12511
+sum 2 = 12511
+sum 1 = 12511
+sum 2 = 12513
+increase found!
+sum 1 = 12513
+sum 2 = 12527
+increase found!
+sum 1 = 12527
+sum 2 = 12540
+increase found!
+sum 1 = 12540
+sum 2 = 12551
+increase found!
+sum 1 = 12551
+sum 2 = 12560
+increase found!
+sum 1 = 12560
+sum 2 = 12565
+increase found!
+sum 1 = 12565
+sum 2 = 12570
+increase found!
+sum 1 = 12570
+sum 2 = 12574
+increase found!
+sum 1 = 12574
+sum 2 = 12579
+increase found!
+sum 1 = 12579
+sum 2 = 12597
+increase found!
+sum 1 = 12597
+sum 2 = 12622
+increase found!
+sum 1 = 12622
+sum 2 = 12648
+increase found!
+sum 1 = 12648
+sum 2 = 12662
+increase found!
+sum 1 = 12662
+sum 2 = 12659
+sum 1 = 12659
+sum 2 = 12620
+sum 1 = 12620
+sum 2 = 12578
+sum 1 = 12578
+sum 2 = 12557
+sum 1 = 12557
+sum 2 = 12577
+increase found!
+sum 1 = 12577
+sum 2 = 12599
+increase found!
+sum 1 = 12599
+sum 2 = 12609
+increase found!
+sum 1 = 12609
+sum 2 = 12615
+increase found!
+sum 1 = 12615
+sum 2 = 12622
+increase found!
+sum 1 = 12622
+sum 2 = 12636
+increase found!
+sum 1 = 12636
+sum 2 = 12645
+increase found!
+sum 1 = 12645
+sum 2 = 12651
+increase found!
+sum 1 = 12651
+sum 2 = 12657
+increase found!
+sum 1 = 12657
+sum 2 = 12678
+increase found!
+sum 1 = 12678
+sum 2 = 12701
+increase found!
+sum 1 = 12701
+sum 2 = 12723
+increase found!
+sum 1 = 12723
+sum 2 = 12734
+increase found!
+sum 1 = 12734
+sum 2 = 12745
+increase found!
+sum 1 = 12745
+sum 2 = 12721
+sum 1 = 12721
+sum 2 = 12691
+sum 1 = 12691
+sum 2 = 12687
+sum 1 = 12687
+sum 2 = 12726
+increase found!
+sum 1 = 12726
+sum 2 = 12770
+increase found!
+sum 1 = 12770
+sum 2 = 12796
+increase found!
+sum 1 = 12796
+sum 2 = 12812
+increase found!
+sum 1 = 12812
+sum 2 = 12825
+increase found!
+sum 1 = 12825
+sum 2 = 12830
+increase found!
+sum 1 = 12830
+sum 2 = 12832
+increase found!
+sum 1 = 12832
+sum 2 = 12848
+increase found!
+sum 1 = 12848
+sum 2 = 12852
+increase found!
+sum 1 = 12852
+sum 2 = 12855
+increase found!
+sum 1 = 12855
+sum 2 = 12824
+sum 1 = 12824
+sum 2 = 12811
+sum 1 = 12811
+sum 2 = 12793
+sum 1 = 12793
+sum 2 = 12797
+increase found!
+sum 1 = 12797
+sum 2 = 12801
+increase found!
+sum 1 = 12801
+sum 2 = 12814
+increase found!
+sum 1 = 12814
+sum 2 = 12827
+increase found!
+sum 1 = 12827
+sum 2 = 12836
+increase found!
+sum 1 = 12836
+sum 2 = 12841
+increase found!
+sum 1 = 12841
+sum 2 = 12867
+increase found!
+sum 1 = 12867
+sum 2 = 12882
+increase found!
+sum 1 = 12882
+sum 2 = 12888
+increase found!
+sum 1 = 12888
+sum 2 = 12889
+increase found!
+sum 1 = 12889
+sum 2 = 12899
+increase found!
+sum 1 = 12899
+sum 2 = 12915
+increase found!
+sum 1 = 12915
+sum 2 = 12916
+increase found!
+sum 1 = 12916
+sum 2 = 12917
+increase found!
+sum 1 = 12917
+sum 2 = 12923
+increase found!
+sum 1 = 12923
+sum 2 = 12907
+sum 1 = 12907
+sum 2 = 12880
+sum 1 = 12880
+sum 2 = 12851
+sum 1 = 12851
+sum 2 = 12843
+sum 1 = 12843
+sum 2 = 12846
+increase found!
+sum 1 = 12846
+sum 2 = 12864
+increase found!
+sum 1 = 12864
+sum 2 = 12880
+increase found!
+sum 1 = 12880
+sum 2 = 12896
+increase found!
+sum 1 = 12896
+sum 2 = 12897
+increase found!
+sum 1 = 12897
+sum 2 = 12883
+sum 1 = 12883
+sum 2 = 12876
+sum 1 = 12876
+sum 2 = 12879
+increase found!
+sum 1 = 12879
+sum 2 = 12901
+increase found!
+sum 1 = 12901
+sum 2 = 12913
+increase found!
+sum 1 = 12913
+sum 2 = 12898
+sum 1 = 12898
+sum 2 = 12883
+sum 1 = 12883
+sum 2 = 12867
+sum 1 = 12867
+sum 2 = 12864
+sum 1 = 12864
+sum 2 = 12870
+increase found!
+sum 1 = 12870
+sum 2 = 12878
+increase found!
+sum 1 = 12878
+sum 2 = 12890
+increase found!
+sum 1 = 12890
+sum 2 = 12891
+increase found!
+sum 1 = 12891
+sum 2 = 12886
+sum 1 = 12886
+sum 2 = 12864
+sum 1 = 12864
+sum 2 = 12835
+sum 1 = 12835
+sum 2 = 12814
+sum 1 = 12814
+sum 2 = 12808
+sum 1 = 12808
+sum 2 = 12807
+sum 1 = 12807
+sum 2 = 12822
+increase found!
+sum 1 = 12822
+sum 2 = 12840
+increase found!
+sum 1 = 12840
+sum 2 = 12860
+increase found!
+sum 1 = 12860
+sum 2 = 12862
+increase found!
+sum 1 = 12862
+sum 2 = 12863
+increase found!
+sum 1 = 12863
+sum 2 = 12864
+increase found!
+sum 1 = 12864
+sum 2 = 12857
+sum 1 = 12857
+sum 2 = 12848
+sum 1 = 12848
+sum 2 = 12845
+sum 1 = 12845
+sum 2 = 12854
+increase found!
+sum 1 = 12854
+sum 2 = 12860
+increase found!
+sum 1 = 12860
+sum 2 = 12860
+sum 1 = 12860
+sum 2 = 12858
+sum 1 = 12858
+sum 2 = 12870
+increase found!
+sum 1 = 12870
+sum 2 = 12878
+increase found!
+sum 1 = 12878
+sum 2 = 12910
+increase found!
+sum 1 = 12910
+sum 2 = 12919
+increase found!
+sum 1 = 12919
+sum 2 = 12958
+increase found!
+sum 1 = 12958
+sum 2 = 12977
+increase found!
+sum 1 = 12977
+sum 2 = 13010
+increase found!
+sum 1 = 13010
+sum 2 = 13009
+sum 1 = 13009
+sum 2 = 13008
+sum 1 = 13008
+sum 2 = 13007
+sum 1 = 13007
+sum 2 = 13000
+sum 1 = 13000
+sum 2 = 12983
+sum 1 = 12983
+sum 2 = 12963
+sum 1 = 12963
+sum 2 = 12946
+sum 1 = 12946
+sum 2 = 12943
+sum 1 = 12943
+sum 2 = 12962
+increase found!
+sum 1 = 12962
+sum 2 = 12990
+increase found!
+sum 1 = 12990
+sum 2 = 13011
+increase found!
+sum 1 = 13011
+sum 2 = 13014
+increase found!
+sum 1 = 13014
+sum 2 = 13021
+increase found!
+sum 1 = 13021
+sum 2 = 13007
+sum 1 = 13007
+sum 2 = 12992
+sum 1 = 12992
+sum 2 = 12975
+sum 1 = 12975
+sum 2 = 12974
+sum 1 = 12974
+sum 2 = 12971
+sum 1 = 12971
+sum 2 = 12972
+increase found!
+sum 1 = 12972
+sum 2 = 12978
+increase found!
+sum 1 = 12978
+sum 2 = 12989
+increase found!
+sum 1 = 12989
+sum 2 = 13003
+increase found!
+sum 1 = 13003
+sum 2 = 13021
+increase found!
+sum 1 = 13021
+sum 2 = 13060
+increase found!
+sum 1 = 13060
+sum 2 = 13094
+increase found!
+sum 1 = 13094
+sum 2 = 13125
+increase found!
+sum 1 = 13125
+sum 2 = 13124
+sum 1 = 13124
+sum 2 = 13123
+sum 1 = 13123
+sum 2 = 13118
+sum 1 = 13118
+sum 2 = 13116
+sum 1 = 13116
+sum 2 = 13113
+sum 1 = 13113
+sum 2 = 13129
+increase found!
+sum 1 = 13129
+sum 2 = 13152
+increase found!
+sum 1 = 13152
+sum 2 = 13153
+increase found!
+sum 1 = 13153
+sum 2 = 13146
+sum 1 = 13146
+sum 2 = 13137
+sum 1 = 13137
+sum 2 = 13149
+increase found!
+sum 1 = 13149
+sum 2 = 13148
+sum 1 = 13148
+sum 2 = 13155
+increase found!
+sum 1 = 13155
+sum 2 = 13162
+increase found!
+sum 1 = 13162
+sum 2 = 13175
+increase found!
+sum 1 = 13175
+sum 2 = 13201
+increase found!
+sum 1 = 13201
+sum 2 = 13240
+increase found!
+sum 1 = 13240
+sum 2 = 13244
+increase found!
+sum 1 = 13244
+sum 2 = 13231
+sum 1 = 13231
+sum 2 = 13195
+sum 1 = 13195
+sum 2 = 13180
+sum 1 = 13180
+sum 2 = 13176
+sum 1 = 13176
+sum 2 = 13169
+sum 1 = 13169
+sum 2 = 13204
+increase found!
+sum 1 = 13204
+sum 2 = 13236
+increase found!
+sum 1 = 13236
+sum 2 = 13283
+increase found!
+sum 1 = 13283
+sum 2 = 13282
+sum 1 = 13282
+sum 2 = 13269
+sum 1 = 13269
+sum 2 = 13252
+sum 1 = 13252
+sum 2 = 13255
+increase found!
+sum 1 = 13255
+sum 2 = 13267
+increase found!
+sum 1 = 13267
+sum 2 = 13276
+increase found!
+sum 1 = 13276
+sum 2 = 13285
+increase found!
+sum 1 = 13285
+sum 2 = 13285
+sum 1 = 13285
+sum 2 = 13288
+increase found!
+sum 1 = 13288
+sum 2 = 13289
+increase found!
+sum 1 = 13289
+sum 2 = 13299
+increase found!
+sum 1 = 13299
+sum 2 = 13319
+increase found!
+sum 1 = 13319
+sum 2 = 13339
+increase found!
+sum 1 = 13339
+sum 2 = 13333
+sum 1 = 13333
+sum 2 = 13336
+increase found!
+sum 1 = 13336
+sum 2 = 13330
+sum 1 = 13330
+sum 2 = 13342
+increase found!
+sum 1 = 13342
+sum 2 = 13329
+sum 1 = 13329
+sum 2 = 13325
+sum 1 = 13325
+sum 2 = 13293
+sum 1 = 13293
+sum 2 = 13261
+sum 1 = 13261
+sum 2 = 13229
+sum 1 = 13229
+sum 2 = 13225
+sum 1 = 13225
+sum 2 = 13229
+increase found!
+sum 1 = 13229
+sum 2 = 13241
+increase found!
+sum 1 = 13241
+sum 2 = 13276
+increase found!
+sum 1 = 13276
+sum 2 = 13319
+increase found!
+sum 1 = 13319
+sum 2 = 13354
+increase found!
+sum 1 = 13354
+sum 2 = 13360
+increase found!
+sum 1 = 13360
+sum 2 = 13362
+increase found!
+sum 1 = 13362
+sum 2 = 13362
+sum 1 = 13362
+sum 2 = 13360
+sum 1 = 13360
+sum 2 = 13374
+increase found!
+sum 1 = 13374
+sum 2 = 13388
+increase found!
+sum 1 = 13388
+sum 2 = 13412
+increase found!
+sum 1 = 13412
+sum 2 = 13412
+sum 1 = 13412
+sum 2 = 13431
+increase found!
+sum 1 = 13431
+sum 2 = 13428
+sum 1 = 13428
+sum 2 = 13424
+sum 1 = 13424
+sum 2 = 13399
+sum 1 = 13399
+sum 2 = 13406
+increase found!
+sum 1 = 13406
+sum 2 = 13421
+increase found!
+sum 1 = 13421
+sum 2 = 13452
+increase found!
+sum 1 = 13452
+sum 2 = 13468
+increase found!
+sum 1 = 13468
+sum 2 = 13478
+increase found!
+sum 1 = 13478
+sum 2 = 13470
+sum 1 = 13470
+sum 2 = 13452
+sum 1 = 13452
+sum 2 = 13440
+sum 1 = 13440
+sum 2 = 13438
+sum 1 = 13438
+sum 2 = 13448
+increase found!
+sum 1 = 13448
+sum 2 = 13466
+increase found!
+sum 1 = 13466
+sum 2 = 13454
+sum 1 = 13454
+sum 2 = 13442
+sum 1 = 13442
+sum 2 = 13435
+sum 1 = 13435
+sum 2 = 13462
+increase found!
+sum 1 = 13462
+sum 2 = 13496
+increase found!
+sum 1 = 13496
+sum 2 = 13521
+increase found!
+sum 1 = 13521
+sum 2 = 13543
+increase found!
+sum 1 = 13543
+sum 2 = 13590
+increase found!
+sum 1 = 13590
+sum 2 = 13630
+increase found!
+sum 1 = 13630
+sum 2 = 13647
+increase found!
+sum 1 = 13647
+sum 2 = 13619
+sum 1 = 13619
+sum 2 = 13603
+sum 1 = 13603
+sum 2 = 13608
+increase found!
+sum 1 = 13608
+sum 2 = 13619
+increase found!
+sum 1 = 13619
+sum 2 = 13621
+increase found!
+sum 1 = 13621
+sum 2 = 13621
+sum 1 = 13621
+sum 2 = 13611
+sum 1 = 13611
+sum 2 = 13608
+sum 1 = 13608
+sum 2 = 13602
+sum 1 = 13602
+sum 2 = 13611
+increase found!
+sum 1 = 13611
+sum 2 = 13623
+increase found!
+sum 1 = 13623
+sum 2 = 13640
+increase found!
+sum 1 = 13640
+sum 2 = 13671
+increase found!
+sum 1 = 13671
+sum 2 = 13706
+increase found!
+sum 1 = 13706
+sum 2 = 13755
+increase found!
+sum 1 = 13755
+sum 2 = 13811
+increase found!
+sum 1 = 13811
+sum 2 = 13850
+increase found!
+sum 1 = 13850
+sum 2 = 13873
+increase found!
+sum 1 = 13873
+sum 2 = 13879
+increase found!
+sum 1 = 13879
+sum 2 = 13882
+increase found!
+sum 1 = 13882
+sum 2 = 13885
+increase found!
+sum 1 = 13885
+sum 2 = 13884
+sum 1 = 13884
+sum 2 = 13893
+increase found!
+sum 1 = 13893
+sum 2 = 13904
+increase found!
+sum 1 = 13904
+sum 2 = 13923
+increase found!
+sum 1 = 13923
+sum 2 = 13936
+increase found!
+sum 1 = 13936
+sum 2 = 13947
+increase found!
+sum 1 = 13947
+sum 2 = 13955
+increase found!
+sum 1 = 13955
+sum 2 = 13932
+sum 1 = 13932
+sum 2 = 13912
+sum 1 = 13912
+sum 2 = 13889
+sum 1 = 13889
+sum 2 = 13893
+increase found!
+sum 1 = 13893
+sum 2 = 13884
+sum 1 = 13884
+sum 2 = 13877
+sum 1 = 13877
+sum 2 = 13879
+increase found!
+sum 1 = 13879
+sum 2 = 13909
+increase found!
+sum 1 = 13909
+sum 2 = 13941
+increase found!
+sum 1 = 13941
+sum 2 = 13970
+increase found!
+sum 1 = 13970
+sum 2 = 13968
+sum 1 = 13968
+sum 2 = 13965
+sum 1 = 13965
+sum 2 = 13960
+sum 1 = 13960
+sum 2 = 13968
+increase found!
+sum 1 = 13968
+sum 2 = 13973
+increase found!
+sum 1 = 13973
+sum 2 = 13993
+increase found!
+sum 1 = 13993
+sum 2 = 14010
+increase found!
+sum 1 = 14010
+sum 2 = 14032
+increase found!
+sum 1 = 14032
+sum 2 = 14050
+increase found!
+sum 1 = 14050
+sum 2 = 14089
+increase found!
+sum 1 = 14089
+sum 2 = 14131
+increase found!
+sum 1 = 14131
+sum 2 = 14143
+increase found!
+sum 1 = 14143
+sum 2 = 14136
+sum 1 = 14136
+sum 2 = 14154
+increase found!
+sum 1 = 14154
+sum 2 = 14191
+increase found!
+sum 1 = 14191
+sum 2 = 14202
+increase found!
+sum 1 = 14202
+sum 2 = 14175
+sum 1 = 14175
+sum 2 = 14147
+sum 1 = 14147
+sum 2 = 14126
+sum 1 = 14126
+sum 2 = 14111
+sum 1 = 14111
+sum 2 = 14094
+sum 1 = 14094
+sum 2 = 14093
+sum 1 = 14093
+sum 2 = 14097
+increase found!
+sum 1 = 14097
+sum 2 = 14101
+increase found!
+sum 1 = 14101
+sum 2 = 14109
+increase found!
+sum 1 = 14109
+sum 2 = 14115
+increase found!
+sum 1 = 14115
+sum 2 = 14139
+increase found!
+sum 1 = 14139
+sum 2 = 14160
+increase found!
+sum 1 = 14160
+sum 2 = 14194
+increase found!
+sum 1 = 14194
+sum 2 = 14215
+increase found!
+sum 1 = 14215
+sum 2 = 14255
+increase found!
+sum 1 = 14255
+sum 2 = 14278
+increase found!
+sum 1 = 14278
+sum 2 = 14299
+increase found!
+sum 1 = 14299
+sum 2 = 14298
+sum 1 = 14298
+sum 2 = 14300
+increase found!
+sum 1 = 14300
+sum 2 = 14302
+increase found!
+sum 1 = 14302
+sum 2 = 14315
+increase found!
+sum 1 = 14315
+sum 2 = 14325
+increase found!
+sum 1 = 14325
+sum 2 = 14334
+increase found!
+sum 1 = 14334
+sum 2 = 14343
+increase found!
+sum 1 = 14343
+sum 2 = 14369
+increase found!
+sum 1 = 14369
+sum 2 = 14396
+increase found!
+sum 1 = 14396
+sum 2 = 14400
+increase found!
+sum 1 = 14400
+sum 2 = 14393
+sum 1 = 14393
+sum 2 = 14395
+increase found!
+sum 1 = 14395
+sum 2 = 14414
+increase found!
+sum 1 = 14414
+sum 2 = 14423
+increase found!
+sum 1 = 14423
+sum 2 = 14423
+sum 1 = 14423
+sum 2 = 14432
+increase found!
+sum 1 = 14432
+sum 2 = 14448
+increase found!
+sum 1 = 14448
+sum 2 = 14463
+increase found!
+sum 1 = 14463
+sum 2 = 14499
+increase found!
+sum 1 = 14499
+sum 2 = 14532
+increase found!
+sum 1 = 14532
+sum 2 = 14594
+increase found!
+sum 1 = 14594
+sum 2 = 14642
+increase found!
+sum 1 = 14642
+sum 2 = 14690
+increase found!
+sum 1 = 14690
+sum 2 = 14710
+increase found!
+sum 1 = 14710
+sum 2 = 14714
+increase found!
+sum 1 = 14714
+sum 2 = 14719
+increase found!
+sum 1 = 14719
+sum 2 = 14721
+increase found!
+sum 1 = 14721
+sum 2 = 14724
+increase found!
+sum 1 = 14724
+sum 2 = 14731
+increase found!
+sum 1 = 14731
+sum 2 = 14740
+increase found!
+sum 1 = 14740
+sum 2 = 14737
+sum 1 = 14737
+sum 2 = 14757
+increase found!
+sum 1 = 14757
+sum 2 = 14790
+increase found!
+sum 1 = 14790
+sum 2 = 14832
+increase found!
+sum 1 = 14832
+sum 2 = 14849
+increase found!
+sum 1 = 14849
+sum 2 = 14864
+increase found!
+sum 1 = 14864
+sum 2 = 14876
+increase found!
+sum 1 = 14876
+sum 2 = 14886
+increase found!
+sum 1 = 14886
+sum 2 = 14897
+increase found!
+sum 1 = 14897
+sum 2 = 14913
+increase found!
+sum 1 = 14913
+sum 2 = 14938
+increase found!
+sum 1 = 14938
+sum 2 = 14959
+increase found!
+sum 1 = 14959
+sum 2 = 14977
+increase found!
+sum 1 = 14977
+sum 2 = 14986
+increase found!
+sum 1 = 14986
+sum 2 = 14987
+increase found!
+sum 1 = 14987
+sum 2 = 14993
+increase found!
+sum 1 = 14993
+sum 2 = 14998
+increase found!
+sum 1 = 14998
+sum 2 = 14987
+sum 1 = 14987
+sum 2 = 14975
+sum 1 = 14975
+sum 2 = 14973
+sum 1 = 14973
+sum 2 = 14984
+increase found!
+sum 1 = 14984
+sum 2 = 14994
+increase found!
+sum 1 = 14994
+sum 2 = 14992
+sum 1 = 14992
+sum 2 = 14999
+increase found!
+sum 1 = 14999
+sum 2 = 15006
+increase found!
+sum 1 = 15006
+sum 2 = 15015
+increase found!
+sum 1 = 15015
+sum 2 = 15015
+sum 1 = 15015
+sum 2 = 15015
+sum 1 = 15015
+sum 2 = 15027
+increase found!
+sum 1 = 15027
+sum 2 = 15042
+increase found!
+sum 1 = 15042
+sum 2 = 15058
+increase found!
+sum 1 = 15058
+sum 2 = 15062
+increase found!
+sum 1 = 15062
+sum 2 = 15071
+increase found!
+sum 1 = 15071
+sum 2 = 15107
+increase found!
+sum 1 = 15107
+sum 2 = 15143
+increase found!
+sum 1 = 15143
+sum 2 = 15178
+increase found!
+sum 1 = 15178
+sum 2 = 15188
+increase found!
+sum 1 = 15188
+sum 2 = 15198
+increase found!
+count of depth increases = 1361
+count of depth increases = 1387
+Array = [1, 2, 3, 4, 5]
+count = 4
